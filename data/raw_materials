@@ -1,0 +1,508 @@
+Upgrade 	Rarity 	Stat 	Location 	Chance 1 	Chance 2
+Adamantium Filaments 	Common 	Health 	Indomitus 59 	75 	
+Adamantium Filaments 	Common 	Health 	Octarius 7 	75 	
+Adamantium Filaments 	Common 	Health 	Indomitus Mirror 47 	83.3 	
+Adamantium Filaments 	Common 	Health 	Octarius Elite 11 	100 	40
+Adamantium Ore 	Common 	Armour 	Indomitus 48 	75 	
+Adamantium Ore 	Common 	Armour 	Fall of Cadia 14 	75 	
+Adamantium Ore 	Common 	Armour 	Octarius 71 	75 	
+Adamantium Ore 	Common 	Armour 	Indomitus Mirror 58 	83.3 	
+Adamantium Ore 	Common 	Armour 	Octarius Mirror 27 	83.3 	
+Adamantium Ore 	Common 	Armour 	Indomitus Elite 1 	100 	40
+Advanced Filaments 	Uncommon 	Health 	Indomitus 61 	60 	
+Advanced Filaments 	Uncommon 	Health 	Indomitus Mirror 46 	71.4 	
+Advanced Filaments 	Uncommon 	Health 	Octarius Mirror 58 	71.4 	
+Advanced Filaments 	Uncommon 	Health 	Octarius Elite 6 	100 	17
+Advanced Rebreather 	Uncommon 	Armour 	Indomitus 68 	60 	
+Advanced Rebreather 	Uncommon 	Armour 	Octarius 33 	60 	
+Advanced Rebreather 	Uncommon 	Armour 	Octarius Mirror 46 	71.4 	
+Air Purificator 	Uncommon 	Armour 	Fall of Cadia 63 	60 	
+Air Purificator 	Uncommon 	Armour 	Indomitus Mirror 9 	71.4 	
+Air Purificator 	Uncommon 	Armour 	Fall of Cadia Mirror 61 	71.4 	
+Ancient Runes 	Rare 	Health 	Octarius 32 	33.3 	
+Ancient Runes 	Rare 	Health 	Indomitus Mirror 23 	40 	
+Ancient Runes 	Rare 	Health 	Fall of Cadia Mirror 52 	40 	
+Ancient Runes 	Rare 	Health 	Octarius Elite 7 	100 	11
+Archeotech Bionics 	Legendary 	Damage 	Fall of Cadia Mirror 36 	16.7 	
+'Ard Plate 	Rare 	Armour 	Octarius 51 	33.3 	
+'Ard Plate 	Rare 	Armour 	Octarius Mirror 69 	40 	
+'Ard Plate 	Rare 	Armour 	Octarius Elite 21 	100 	11
+Armor Trim 	Common 	Armour 	Fall of Cadia 7 	75 	
+Armor Trim 	Common 	Armour 	Octarius 11 	75 	
+Armor Trim 	Common 	Armour 	Octarius Mirror 22 	83.3 	
+Armor Trim 	Common 	Armour 	Fall of Cadia Elite 1 	100 	40
+Artificer Tasset Plate 	Rare 	Armour 	Octarius 37 	33.3 	
+Artificer Tasset Plate 	Rare 	Armour 	Indomitus Mirror 18 	40 	
+Artificer Tasset Plate 	Rare 	Armour 	Fall of Cadia Mirror 47 	40 	
+Artificer Tasset Plate 	Rare 	Armour 	Octarius Mirror 49 	40 	
+Artificer Tasset Plate 	Rare 	Armour 	Fall of Cadia Elite 36 	100 	11
+Artificial Vertebrae 	Uncommon 	Health 	Fall of Cadia 38 	60 	
+Artificial Vertebrae 	Uncommon 	Health 	Indomitus Mirror 11 	71.4 	
+Artificial Vertebrae 	Uncommon 	Health 	Fall of Cadia Mirror 63 	71.4 	
+Artificial Vertebrae 	Uncommon 	Health 	Fall of Cadia Elite 35 	100 	17
+Attack Vector Data-Slate 	Uncommon 	Damage 	Indomitus 25 	60 	
+Attack Vector Data-Slate 	Uncommon 	Damage 	Fall of Cadia 35 	60 	
+Attack Vector Data-Slate 	Uncommon 	Damage 	Octarius 70 	60 	
+Attack Vector Data-Slate 	Uncommon 	Damage 	Fall of Cadia Mirror 11 	71.4 	
+Auspex 	Common 	Damage 	Fall of Cadia 19 	75 	
+Auspex 	Common 	Damage 	Octarius 64 	75 	
+Auspex 	Common 	Damage 	Indomitus Mirror 59 	83.3 	
+Auspex 	Common 	Damage 	Octarius Mirror 19 	83.3 	
+Bad Moon Teef 	Rare 	Health 	Octarius 46 	33.3 	
+Bad Moon Teef 	Rare 	Health 	Octarius Mirror 61 	40 	
+Bad Moon Teef 	Rare 	Health 	Octarius Elite 19 	100 	11
+Ballistics Data 	Common 	Damage 	Indomitus 47 	75 	
+Ballistics Data 	Common 	Damage 	Fall of Cadia 55 	75 	
+Ballistics Data 	Common 	Damage 	Indomitus Mirror 61 	83.3 	
+Ballistics Data 	Common 	Damage 	Octarius Mirror 68 	83.3 	
+Ballistics Data 	Common 	Damage 	Octarius Elite 3 	100 	40
+Barrel of Promethium 	Uncommon 	Damage 	Indomitus 54 	60 	
+Barrel of Promethium 	Uncommon 	Damage 	Fall of Cadia 33 	60 	
+Barrel of Promethium 	Uncommon 	Damage 	Octarius 56 	60 	
+Barrel of Promethium 	Uncommon 	Damage 	Indomitus Mirror 52 	71.4 	
+Barrel of Promethium 	Uncommon 	Damage 	Octarius Mirror 28 	71.4 	
+Basic Auxiliary Core 	Common 	Damage 	Indomitus 22 	75 	
+Basic Auxiliary Core 	Common 	Damage 	Fall of Cadia 32 	75 	
+Basic Auxiliary Core 	Common 	Damage 	Octarius 53 	75 	
+Basic Auxiliary Core 	Common 	Damage 	Fall of Cadia Mirror 19 	83.3 	
+Basic Auxiliary Core 	Common 	Damage 	Octarius Mirror 14 	83.3 	
+Basic Auxiliary Core 	Common 	Damage 	Indomitus Elite 5 	100 	40
+Battle Scar 	Rare 	Health 	Fall of Cadia 22 	33.3 	
+Battle Scar 	Rare 	Health 	Octarius 74 	33.3 	
+Battle Scar 	Rare 	Health 	Fall of Cadia Mirror 42 	40 	
+Battle Scar 	Rare 	Health 	Octarius Mirror 57 	40 	
+Battle Scar 	Rare 	Health 	Octarius Elite 30 	100 	11
+Beast Hide 	Rare 	Armour 	Fall of Cadia 51 	33.3 	
+Beast Hide 	Rare 	Armour 	Octarius Elite 22 	100 	11
+Bionic Eye 	Rare 	Damage 	Fall of Cadia 69 	33.3 	
+Bionic Eye 	Rare 	Damage 	Indomitus Mirror 19 	40 	
+Bionic Eye 	Rare 	Damage 	Fall of Cadia Mirror 32 	40 	
+Bionic Eye 	Rare 	Damage 	Octarius Elite 36 	100 	11
+Bionic Neural Pathways 	Epic 	Damage 	Octarius 43 	25 	
+Bionic Neural Pathways 	Epic 	Damage 	Fall of Cadia Mirror 29 	33.3 	
+Bionic Neural Pathways 	Epic 	Damage 	Octarius Mirror 73 	33.3 	
+Bionic Neural Pathways 	Epic 	Damage 	Octarius Elite 37 	67 	
+Bladesman's Honour 	Rare 	Damage 	Octarius 22 	33.3 	
+Bladesman's Honour 	Rare 	Damage 	Octarius Mirror 41 	40 	
+Blasphemous Armor Trim 	Rare 	Armour 	Fall of Cadia 65 	33.3 	
+Blasphemous Armor Trim 	Rare 	Armour 	Fall of Cadia Mirror 65 	40 	
+Blasphemous Armor Trim 	Rare 	Armour 	Fall of Cadia Elite 21 	100 	11
+Blessed Corset Armor 	Rare 	Armour 	Octarius 50 	33.3 	
+Blessed Corset Armor 	Rare 	Armour 	Fall of Cadia Mirror 67 	40 	
+Blessed Corset Armor 	Rare 	Armour 	Indomitus Elite 21 	100 	11
+Blessed Promethium Canister 	Epic 	Damage 	Fall of Cadia 73 	25 	
+Blessed Promethium Canister 	Epic 	Damage 	Indomitus Mirror 26 	33.3 	
+Blessed Promethium Canister 	Epic 	Damage 	Fall of Cadia Mirror 26 	33.3 	
+Blessed Tabbard 	Rare 	Armour 	Octarius 54 	33.3 	
+Blessed Tabbard 	Rare 	Armour 	Octarius Mirror 66 	40 	
+Blessed Tabbard 	Rare 	Armour 	Octarius Elite 27 	100 	11
+Blessed Tasset Plate 	Uncommon 	Armour 	Fall of Cadia 23 	60 	
+Blessed Tasset Plate 	Uncommon 	Armour 	Octarius 19 	60 	
+Blessed Tasset Plate 	Uncommon 	Armour 	Indomitus Mirror 10 	71.4 	
+Blessed Tasset Plate 	Uncommon 	Armour 	Octarius Mirror 24 	71.4 	
+Blessed Tasset Plate 	Uncommon 	Armour 	Indomitus Elite 34 	100 	17
+Blessing of Nurgle 	Legendary 	Health 	Fall of Cadia Elite 29 	40 	
+Blessing of Nurgle 	Legendary 	Health 	Fall of Cadia Elite 39 	40 	
+Blessing of the Dark Gods 	Legendary 	Health 	Fall of Cadia Elite 23 	40 	
+Blessing of the Dark Gods 	Legendary 	Health 	Fall of Cadia Elite 38 	40 	
+Bones of the Paragons 	Legendary 	Health 	Octarius Mirror 70 	16.7 	
+Bones of the Paragons 	Legendary 	Health 	Octarius Elite 28 	40 	
+Box of Salvage 	Uncommon 	Armour 	Indomitus 31 	60 	
+Box of Salvage 	Uncommon 	Armour 	Fall of Cadia 28 	60 	
+Box of Salvage 	Uncommon 	Armour 	Octarius 58 	60 	
+Box of Salvage 	Uncommon 	Armour 	Fall of Cadia Mirror 8 	71.4 	
+Box of Salvage 	Uncommon 	Armour 	Octarius Elite 4 	100 	17
+Can of Promethium 	Common 	Damage 	Indomitus 50 	75 	
+Can of Promethium 	Common 	Damage 	Fall of Cadia 47 	75 	
+Can of Promethium 	Common 	Damage 	Indomitus Mirror 56 	83.3 	
+Can of Promethium 	Common 	Damage 	Octarius Mirror 32 	83.3 	
+Canister of Promethium 	Common 	Damage 	Indomitus 46 	75 	
+Canister of Promethium 	Common 	Damage 	Fall of Cadia 24 	75 	
+Canister of Promethium 	Common 	Damage 	Octarius 61 	75 	
+Canister of Promethium 	Common 	Damage 	Indomitus Mirror 62 	83.3 	
+Canister of Promethium 	Common 	Damage 	Octarius Mirror 2 	83.3 	
+Canister of Promethium 	Common 	Damage 	Fall of Cadia Elite 11 	100 	40
+Ceramite Lump 	Uncommon 	Armour 	Indomitus 26 	60 	
+Ceramite Lump 	Uncommon 	Armour 	Octarius 20 	60 	
+Ceramite Lump 	Uncommon 	Armour 	Fall of Cadia Mirror 10 	71.4 	
+Ceramite Lump 	Uncommon 	Armour 	Octarius Mirror 39 	71.4 	
+Ceramite Lump 	Uncommon 	Armour 	Indomitus Elite 35 	100 	17
+Chain of Zeal 	Rare 	Damage 	Octarius 41 	33.3 	
+Chain of Zeal 	Rare 	Damage 	Octarius Mirror 59 	40 	
+Chain of Zeal 	Rare 	Damage 	Octarius Elite 25 	100 	11
+Chapter Pendant 	Rare 	Damage 			
+Chip Damage 	Common 	Health 	Fall of Cadia 6 	75 	
+Chip Damage 	Common 	Health 	Octarius 3 	75 	
+Chip Damage 	Common 	Health 	Indomitus Mirror 24 	83.3 	
+Chip Damage 	Common 	Health 	Octarius Mirror 16 	83.3 	
+Chip Damage 	Common 	Health 	Octarius Elite 2 	100 	40
+Classified Data-Slate 	Rare 	Damage 	Fall of Cadia 62 	33.3 	
+Classified Data-Slate 	Rare 	Damage 	Indomitus Mirror 13 	40 	
+Classified Data-Slate 	Rare 	Damage 	Fall of Cadia Mirror 41 	40 	
+Classified Data-Slate 	Rare 	Damage 	Octarius Mirror 50 	40 	
+Classified Data-Slate 	Rare 	Damage 	Indomitus Elite 25 	100 	11
+Cloak 	Uncommon 	Armour 	Fall of Cadia 37 	60 	
+Cloak 	Uncommon 	Armour 	Octarius 10 	60 	
+Cloak 	Uncommon 	Armour 	Octarius Mirror 34 	71.4 	
+Cloak 	Uncommon 	Armour 	Fall of Cadia Elite 4 	100 	17
+Codex Page 	Legendary 	Health 	Indomitus Elite 23 	40 	
+Codex Page 	Legendary 	Health 	Indomitus Elite 38 	40 	
+Combat Stimms 	Uncommon 	Damage 	Fall of Cadia 58 	60 	
+Combat Stimms 	Uncommon 	Damage 	Octarius 9 	60 	
+Combat Stimms 	Uncommon 	Damage 	Indomitus Mirror 6 	71.4 	
+Combat Stimms 	Uncommon 	Damage 	Fall of Cadia Mirror 56 	71.4 	
+Crate of Salvage 	Rare 	Armour 	Fall of Cadia 11 	33.3 	
+Crate of Salvage 	Rare 	Armour 	Indomitus Mirror 12 	40 	
+Crate of Salvage 	Rare 	Armour 	Fall of Cadia Mirror 40 	40 	
+Crate of Salvage 	Rare 	Armour 	Octarius Mirror 38 	40 	
+Crate of Salvage 	Rare 	Armour 	Octarius Elite 15 	100 	11
+Dark Hood 	Rare 	Armour 			
+Divinator Class Auspex 	Uncommon 	Damage 	Octarius 73 	60 	
+Divinator Class Auspex 	Uncommon 	Damage 	Indomitus Mirror 63 	71.4 	
+Drone Controller 	Rare 	Armour 	Fall of Cadia Mirror 50 	40 	
+Drone Controller 	Rare 	Armour 	Indomitus Elite 22 	100 	11
+Engram Neurochip 	Legendary 	Health 	Fall of Cadia Mirror 62 	16.7 	
+Engram Neurochip 	Legendary 	Health 	Indomitus Elite 30 	40 	
+Engrammatic Entangler 	Legendary 	Health 	Indomitus 74 	12.5 	
+Engrammatic Entangler 	Legendary 	Health 	Indomitus Mirror 71 	16.7 	
+Engrammatic Entangler 	Legendary 	Health 	Indomitus Elite 28 	40 	
+Enriched Rations 	Uncommon 	Health 	Indomitus 20 	60 	
+Enriched Rations 	Uncommon 	Health 	Fall of Cadia Mirror 14 	71.4 	
+Enriched Rations 	Uncommon 	Health 	Octarius Mirror 62 	71.4 	
+Enriched Rations 	Uncommon 	Health 	Indomitus Elite 4 	100 	17
+Enriched Rations 	Uncommon 	Health 	Octarius Elite 34 	100 	17
+Entrenching Tool 	Rare 	Damage 	Fall of Cadia 53 	33.3 	
+Entrenching Tool 	Rare 	Damage 	Fall of Cadia Mirror 59 	40 	
+Entrenching Tool 	Rare 	Damage 	Fall of Cadia Elite 25 	100 	11
+Eye of Horus 	Rare 	Health 	Fall of Cadia 56 	33.3 	
+Eye of Horus 	Rare 	Health 	Fall of Cadia Mirror 55 	40 	
+Eye of Horus 	Rare 	Health 	Fall of Cadia Elite 19 	100 	11
+Field Ration 	Common 	Health 	Indomitus 37 	75 	
+Field Ration 	Common 	Health 	Fall of Cadia 50 	75 	
+Field Ration 	Common 	Health 	Fall of Cadia Mirror 2 	83.3 	
+Field Ration 	Common 	Health 	Octarius Mirror 17 	83.3 	
+Fine Micro-Generator 	Uncommon 	Damage 	Indomitus 43 	60 	
+Fine Micro-Generator 	Uncommon 	Damage 	Fall of Cadia 31 	60 	
+Fine Micro-Generator 	Uncommon 	Damage 	Octarius 69 	60 	
+Fine Micro-Generator 	Uncommon 	Damage 	Indomitus Mirror 64 	71.4 	
+Fine Micro-Generator 	Uncommon 	Damage 	Octarius Mirror 29 	71.4 	
+Fine Micro-Generator 	Uncommon 	Damage 	Fall of Cadia Elite 14 	100 	17
+Fine Purity Seal 	Common 	Armour 	Indomitus 32 	75 	
+Fine Purity Seal 	Common 	Armour 	Fall of Cadia Mirror 7 	83.3 	
+Fine Purity Seal 	Common 	Armour 	Octarius Mirror 31 	83.3 	
+Fine Purity Seal 	Common 	Armour 	Indomitus Elite 10 	100 	40
+Flak Plates 	Rare 	Armour 	Fall of Cadia 70 	33.3 	
+Flak Plates 	Rare 	Armour 	Fall of Cadia Mirror 70 	40 	
+Flak Plates 	Rare 	Armour 	Fall of Cadia Elite 27 	100 	11
+Frag Grenade 	Common 	Damage 	Indomitus 17 	75 	
+Frag Grenade 	Common 	Damage 	Fall of Cadia 29 	75 	
+Frag Grenade 	Common 	Damage 	Fall of Cadia Mirror 17 	83.3 	
+Frag Grenade 	Common 	Damage 	Octarius Mirror 4 	83.3 	
+Golden Ornamental Skull 	Epic 	Health 	Fall of Cadia 72 	25 	
+Golden Ornamental Skull 	Epic 	Health 	Indomitus Mirror 27 	33.3 	
+Golden Ornamental Skull 	Epic 	Health 	Fall of Cadia Mirror 27 	33.3 	
+Golden Ornamental Skull 	Epic 	Health 	Fall of Cadia Elite 37 	67 	
+Greater Reliquary of Vengeance 	Epic 	Damage 	Fall of Cadia 61 	25 	
+Greater Reliquary of Vengeance 	Epic 	Damage 	Indomitus Mirror 25 	33.3 	
+Greater Reliquary of Vengeance 	Epic 	Damage 	Fall of Cadia Mirror 73 	33.3 	
+Greater Reliquary of Vengeance 	Epic 	Damage 	Indomitus Elite 27 	67 	
+Healing Ointment 	Common 	Health 	Indomitus 53 	75 	
+Healing Ointment 	Common 	Health 	Fall of Cadia 18 	75 	
+Healing Ointment 	Common 	Health 	Indomitus Mirror 53 	83.3 	
+Healing Ointment 	Common 	Health 	Octarius Mirror 6 	83.3 	
+Helmet Trophy 	Uncommon 	Health 	Fall of Cadia 41 	60 	
+Helmet Trophy 	Uncommon 	Health 	Octarius 31 	60 	
+Helmet Trophy 	Uncommon 	Health 	Indomitus Mirror 5 	71.4 	
+Helmet Trophy 	Uncommon 	Health 	Fall of Cadia Mirror 54 	71.4 	
+Helmet Trophy 	Uncommon 	Health 	Fall of Cadia Elite 12 	100 	17
+Holy Chaplet 	Legendary 	Health 	Indomitus Mirror 72 	16.7 	
+Holy Chaplet 	Legendary 	Health 	Indomitus Elite 29 	40 	
+Holy Chaplet 	Legendary 	Health 	Indomitus Elite 39 	40 	
+Honourifica Imperialis 	Legendary 	Health 	Fall of Cadia Mirror 66 	16.7 	
+Honourifica Imperialis 	Legendary 	Health 	Fall of Cadia Elite 28 	40 	
+Hymn of Martyrs 	Rare 	Damage 	Fall of Cadia 57 	33.3 	
+Hymn of Martyrs 	Rare 	Damage 	Indomitus Mirror 33 	40 	
+Hymn of Martyrs 	Rare 	Damage 	Indomitus Elite 17 	100 	11
+Hypermaterial Shifter 	Epic 	Armour 	Indomitus 73 	25 	
+Hypermaterial Shifter 	Epic 	Armour 	Indomitus Mirror 74 	33.3 	
+Hypermaterial Shifter 	Epic 	Armour 	Fall of Cadia Mirror 74 	33.3 	
+Icon of Vengeance 	Rare 	Damage 	Fall of Cadia 54 	33.3 	
+Icon of Vengeance 	Rare 	Damage 	Fall of Cadia Mirror 44 	40 	
+Icon of Vengeance 	Rare 	Damage 	Fall of Cadia Elite 17 	100 	11
+Iron Jaw 	Rare 	Damage 	Octarius 35 	33.3 	
+Iron Jaw 	Rare 	Damage 	Octarius Mirror 53 	40 	
+Iron Jaw 	Rare 	Damage 	Octarius Elite 17 	100 	11
+Key of Ignorance 	Rare 	Health 			
+Kill Count 	Rare 	Health 	Fall of Cadia 17 	33.3 	
+Kill Count 	Rare 	Health 	Octarius 34 	33.3 	
+Kill Count 	Rare 	Health 	Indomitus Mirror 14 	40 	
+Kill Count 	Rare 	Health 	Octarius Mirror 56 	40 	
+Kill Count 	Rare 	Health 	Fall of Cadia Elite 15 	100 	11
+Krak Grenade 	Rare 	Damage 	Indomitus 70 	33.3 	
+Krak Grenade 	Rare 	Damage 	Octarius 39 	33.3 	
+Krak Grenade 	Rare 	Damage 	Indomitus Mirror 36 	40 	
+Krak Grenade 	Rare 	Damage 	Octarius Mirror 55 	40 	
+Krak Grenade 	Rare 	Damage 	Indomitus Elite 36 	100 	11
+Kustom Gubbinz 	Legendary 	Health 	Octarius Mirror 72 	16.7 	
+Kustom Gubbinz 	Legendary 	Health 	Octarius Elite 23 	40 	
+Kustom Gubbinz 	Legendary 	Health 	Octarius Elite 38 	40 	
+Lesser Reliquary of Protection 	Common 	Health 	Indomitus 33 	75 	
+Lesser Reliquary of Protection 	Common 	Health 	Fall of Cadia 27 	75 	
+Lesser Reliquary of Protection 	Common 	Health 	Octarius 67 	75 	
+Lesser Reliquary of Protection 	Common 	Health 	Fall of Cadia Mirror 6 	83.3 	
+Lesser Reliquary of Protection 	Common 	Health 	Octarius Mirror 20 	83.3 	
+Lesser Reliquary of Vengeance 	Common 	Damage 	Indomitus 51 	75 	
+Lesser Reliquary of Vengeance 	Common 	Damage 	Indomitus Mirror 55 	83.3 	
+Locator Beacon 	Uncommon 	Damage 	Indomitus 36 	60 	
+Locator Beacon 	Uncommon 	Damage 	Octarius 72 	60 	
+Locator Beacon 	Uncommon 	Damage 	Fall of Cadia Mirror 3 	71.4 	
+Locator Beacon 	Uncommon 	Damage 	Octarius Mirror 43 	71.4 	
+Locator Beacon 	Uncommon 	Damage 	Fall of Cadia Elite 34 	100 	17
+Marksman's Honour 	Uncommon 	Damage 	Indomitus 35 	60 	
+Marksman's Honour 	Uncommon 	Damage 	Fall of Cadia Mirror 4 	71.4 	
+Master-Crafted Ammo 	Legendary 	Damage 	Fall of Cadia Mirror 34 	16.7 	
+Mesh Weave 	Uncommon 	Armour 	Octarius 23 	60 	
+Mesh Weave 	Uncommon 	Armour 	Fall of Cadia Mirror 35 	71.4 	
+Mesh Weave 	Uncommon 	Armour 	Octarius Mirror 23 	71.4 	
+Metal Decorative Skull 	Rare 	Health 	Indomitus 71 	33.3 	
+Metal Decorative Skull 	Rare 	Health 	Octarius 36 	33.3 	
+Metal Decorative Skull 	Rare 	Health 	Indomitus Mirror 35 	40 	
+Metal Decorative Skull 	Rare 	Health 	Octarius Mirror 52 	40 	
+Metal Decorative Skull 	Rare 	Health 	Fall of Cadia Elite 30 	100 	11
+Metal Joints 	Common 	Armour 	Fall of Cadia 26 	75 	
+Metal Joints 	Common 	Armour 	Octarius 6 	75 	
+Metal Joints 	Common 	Armour 	Octarius Mirror 35 	83.3 	
+Minor Bionic Enhancement 	Common 	Health 	Indomitus 49 	75 	
+Minor Bionic Enhancement 	Common 	Health 	Fall of Cadia 10 	75 	
+Minor Bionic Enhancement 	Common 	Health 	Octarius 62 	75 	
+Minor Bionic Enhancement 	Common 	Health 	Indomitus Mirror 57 	83.3 	
+Minor Bionic Enhancement 	Common 	Health 	Octarius Mirror 11 	83.3 	
+Minor Bionic Enhancement 	Common 	Health 	Indomitus Elite 2 	100 	40
+Mission Assignment 	Common 	Health 	Fall of Cadia 52 	75 	
+Mission Assignment 	Common 	Health 	Octarius 13 	75 	
+Mission Assignment 	Common 	Health 	Octarius Mirror 12 	83.3 	
+Mission Assignment 	Common 	Health 	Fall of Cadia Elite 33 	100 	40
+Mission Objective 	Uncommon 	Health 	Fall of Cadia 43 	60 	
+Mission Objective 	Uncommon 	Health 	Octarius 25 	60 	
+Mission Objective 	Uncommon 	Health 	Octarius Mirror 47 	71.4 	
+Mjod 	Legendary 	Health 	Octarius Mirror 71 	17 	
+Mjod 	Legendary 	Health 	Octarius Elite 39 	40 	
+Mutation: Scaly Skin 	Uncommon 	Armour 	Indomitus 66 	60 	
+Mutation: Scaly Skin 	Uncommon 	Armour 	Fall of Cadia 39 	60 	
+Mutation: Scaly Skin 	Uncommon 	Armour 	Indomitus Mirror 40 	71.4 	
+Mutation: Scaly Skin 	Uncommon 	Armour 	Fall of Cadia Mirror 38 	71.4 	
+Mutation: Scaly Skin 	Uncommon 	Armour 	Fall of Cadia Elite 13 	100 	17
+Mutation: Tough Skin 	Common 	Armour 	Indomitus 64 	75 	
+Mutation: Tough Skin 	Common 	Armour 	Fall of Cadia 9 	75 	
+Mutation: Tough Skin 	Common 	Armour 	Indomitus Mirror 42 	83.3 	
+Mutation: Tough Skin 	Common 	Armour 	Fall of Cadia Elite 3 	100 	40
+Mutation: Warped Heart 	Rare 	Health 	Octarius 49 	33.3 	
+Mutation: Warped Heart 	Rare 	Health 	Indomitus Mirror 17 	40 	
+Mutation: Warped Heart 	Rare 	Health 	Fall of Cadia Mirror 46 	40 	
+Mutation: Warped Heart 	Rare 	Health 	Fall of Cadia Elite 7 	100 	11
+Mutation: Warped Lungs 	Uncommon 	Health 	Indomitus 65 	60 	
+Mutation: Warped Lungs 	Uncommon 	Health 	Fall of Cadia 36 	60 	
+Mutation: Warped Lungs 	Uncommon 	Health 	Indomitus Mirror 41 	71.4 	
+Mutation: Warped Lungs 	Uncommon 	Health 	Fall of Cadia Mirror 68 	71.4 	
+Mutation: Warped Lungs 	Uncommon 	Health 	Fall of Cadia Elite 6 	100 	17
+Mutation: Warped Muscles 	Common 	Health 	Fall of Cadia 1 	75 	
+Mutation: Warped Muscles 	Common 	Health 	Indomitus Mirror 3 	83.3 	
+Mutation: Warped Muscles 	Common 	Health 	Fall of Cadia Mirror 24 	83.3 	
+Mutation: Warped Muscles 	Common 	Health 	Fall of Cadia Elite 10 	100 	40
+Nano Scarab Swarm 	Common 	Health 	Indomitus 67 	75 	
+Nano Scarab Swarm 	Common 	Health 	Indomitus Mirror 21 	83.3 	
+Nasty Spikes 	Common 	Damage 	Fall of Cadia 2 	75 	
+Nasty Spikes 	Common 	Damage 	Octarius 4 	75 	
+Nasty Spikes 	Common 	Damage 	Fall of Cadia Mirror 21 	83.3 	
+Nasty Spikes 	Common 	Damage 	Fall of Cadia Mirror 69 	83.3 	
+Nasty Spikes 	Common 	Damage 	Fall of Cadia Elite 9 	100 	40
+Oath Seal 	Uncommon 	Armour 	Indomitus 40 	60 	
+Oath Seal 	Uncommon 	Armour 	Octarius 26 	60 	
+Oath Seal 	Uncommon 	Armour 	Indomitus Mirror 68 	71.4 	
+Oath Seal 	Uncommon 	Armour 	Octarius Mirror 40 	71.4 	
+Oath Seal 	Uncommon 	Armour 	Indomitus Elite 13 	100 	17
+Pile of Salvage 	Common 	Armour 	Indomitus 28 	75 	
+Pile of Salvage 	Common 	Armour 	Fall of Cadia 16 	75 	
+Pile of Salvage 	Common 	Armour 	Octarius 57 	75 	
+Pile of Salvage 	Common 	Armour 	Fall of Cadia Mirror 9 	83.3 	
+Pile of Salvage 	Common 	Armour 	Octarius Mirror 18 	83.3 	
+Pile of Salvage 	Common 	Armour 	Octarius Elite 1 	100 	40
+Plague Bell 	Rare 	Health 	Fall of Cadia 68 	33.3 	
+Plague Bell 	Rare 	Health 	Octarius Mirror 67 	40 	
+Plague Bell 	Rare 	Health 	Fall of Cadia Elite 20 	100 	11
+Plasma Cell 	Uncommon 	Damage 	Indomitus 42 	60 	
+Plasma Cell 	Uncommon 	Damage 	Fall of Cadia 34 	60 	
+Plasma Cell 	Uncommon 	Damage 	Octarius 55 	60 	
+Plasma Cell 	Uncommon 	Damage 	Indomitus Mirror 65 	71.4 	
+Plasma Cell 	Uncommon 	Damage 	Octarius Mirror 36 	71.4 	
+Plasma Cell 	Uncommon 	Damage 	Octarius Elite 14 	100 	17
+Power Weapon Field Node 	Epic 	Damage 	Fall of Cadia Mirror 28 	33.3 	
+Power Weapon Field Node 	Epic 	Damage 	Octarius Elite 31 	67 	
+Psytronome 	Rare 	Damage 	Octarius 52 	33.3 	
+Psytronome 	Rare 	Damage 	Indomitus Mirror 32 	40 	
+Purity Seal 	Common 	Armour 	Indomitus 19 	75 	
+Purity Seal 	Common 	Armour 	Fall of Cadia 46 	75 	
+Purity Seal 	Common 	Armour 	Octarius 66 	75 	
+Purity Seal 	Common 	Armour 	Fall of Cadia Mirror 16 	83.3 	
+Purity Seal 	Common 	Armour 	Octarius Mirror 1 	83.3 	
+Purity Seal 	Common 	Armour 	Indomitus Elite 3 	100 	40
+Purity Seal of the Primarch 	Legendary 	Armour 	Fall of Cadia 74 	12.5 	
+Rebreather 	Common 	Armour 	Octarius 17 	75 	
+Rebreather 	Common 	Armour 	Indomitus Mirror  1 	83.3 	
+Rebreather 	Common 	Armour 	Fall of Cadia Mirror 22 	83.3 	
+Rebreather 	Common 	Armour 	Octarius Mirror 7 	83.3 	
+Reconstitution Protocols 	Rare 	Health 	Indomitus 63 	33.3 	
+Reconstitution Protocols 	Rare 	Health 	Indomitus Mirror 43 	40 	
+Reinforced Cables 	Uncommon 	Health 	Fall of Cadia 40 	60 	
+Reinforced Cables 	Uncommon 	Health 	Octarius 29 	60 	
+Reinforced Cables 	Uncommon 	Health 	Indomitus Mirror 7 	71.4 	
+Reinforced Cables 	Uncommon 	Health 	Fall of Cadia Mirror 57 	71.4 	
+Reinforced Cables 	Uncommon 	Health 	Octarius Elite 12 	100 	17
+Reinforced Scale-Plates 	Uncommon 	Armour 	Octarius 12 	60 	
+Reinforced Scale-Plates 	Uncommon 	Armour 	Indomitus Mirror 8 	71.4 	
+Reinforced Scale-Plates 	Uncommon 	Armour 	Fall of Cadia Mirror 58 	71.4 	
+Reinforced Scale-Plates 	Uncommon 	Armour 	Octarius Mirror 25 	71.4 	
+Reinforced Scale-Plates 	Uncommon 	Armour 	Octarius Elite 13 	100 	17
+Reliquary of Protection 	Uncommon 	Health 	Indomitus 58 	60 	
+Reliquary of Protection 	Uncommon 	Health 	Octarius 21 	60 	
+Reliquary of Protection 	Uncommon 	Health 	Indomitus Mirror 48 	71.4 	
+Reliquary of Protection 	Uncommon 	Health 	Octarius Mirror 44 	71.4 	
+Reliquary of Vengeance 	Uncommon 	Damage 	Indomitus 41 	60 	
+Reliquary of Vengeance 	Uncommon 	Damage 	Indomitus Mirror 67 	71.4 	
+Reliquary of Vengeance 	Uncommon 	Damage 	Indomitus Elite 14 	100 	17
+Repair-Kit 	Rare 	Health 	Fall of Cadia 66 	33.3 	
+Repair-Kit 	Rare 	Health 	Indomitus Mirror 34 	40 	
+Repair-Kit 	Rare 	Health 	Fall of Cadia Mirror 37 	40 	
+Repair-Kit 	Rare 	Health 	Indomitus Elite 15 	100 	11
+Righteous Candle 	Rare 	Health 	Octarius 47 	33.3 	
+Righteous Candle 	Rare 	Health 	Octarius Mirror 63 	40 	
+Righteous Candle 	Rare 	Health 	Octarius Elite 26 	100 	11
+Ropes and Chains 	Common 	Health 	Fall of Cadia 5 	75 	
+Ropes and Chains 	Common 	Health 	Octarius 1 	75 	
+Ropes and Chains 	Common 	Health 	Indomitus Mirror 29 	83.3 	
+Ropes and Chains 	Common 	Health 	Octarius Mirror 13 	83.3 	
+Rose of Martyrs 	Rare 	Health 	Octarius 48 	33.3 	
+Rose of Martyrs 	Rare 	Health 	Indomitus Mirror 73 	40 	
+Rose of Martyrs 	Rare 	Health 	Indomitus Elite 19 	100 	11
+Round of Ammo 	Common 	Damage 	Indomitus 38 	75 	
+Round of Ammo 	Common 	Damage 	Fall of Cadia 20 	75 	
+Round of Ammo 	Common 	Damage 	Fall of Cadia Mirror 1 	83.3 	
+Round of Ammo 	Common 	Damage 	Octarius Mirror 26 	83.3 	
+Round of Ammo 	Common 	Damage 	Indomitus Elite 11 	100 	40
+Runes of Fate 	Legendary 	Health 	Octarius Mirror 74 	16.7 	
+Runes of Fate 	Legendary 	Health 	Octarius Elite 29 	40 	
+Satchel 	Uncommon 	Health 	Fall of Cadia 4 	60 	
+Satchel 	Uncommon 	Health 	Octarius 18 	60 	
+Satchel 	Uncommon 	Health 	Octarius Mirror 42 	71.4 	
+Satchel 	Uncommon 	Health 	Octarius Elite 35 	100 	17
+Scrolls 	Common 	Health 	Fall of Cadia 25 	75 	
+Scrolls 	Common 	Health 	Octarius 16 	75 	
+Scrolls 	Common 	Health 	Fall of Cadia Mirror 13 	83.3 	
+Scrolls 	Common 	Health 	Fall of Cadia Elite 2 	100 	40
+Sensor Suite 	Rare 	Damage 	Indomitus Mirror 39 	40 	
+Sensor Suite 	Rare 	Damage 	Indomitus Elite 18 	100 	11
+Sigil of Decay 	Rare 	Damage 	Octarius 38 	33.3 	
+Sigil of Decay 	Rare 	Damage 	Fall of Cadia Mirror 64 	40 	
+Sigil of Decay 	Rare 	Damage 	Fall of Cadia Elite 18 	100 	11
+Single Power Pack 	Common 	Damage 	Indomitus 55 	75 	
+Single Power Pack 	Common 	Damage 	Octarius 68 	75 	
+Single Power Pack 	Common 	Damage 	Indomitus Mirror 51 	83.3 	
+Single Power Pack 	Common 	Damage 	Octarius Mirror 9 	83.3 	
+Single Power Pack 	Common 	Damage 	Fall of Cadia Elite 5 	100 	40
+Sophisticated Material 	Common 	Armour 	Indomitus 57 	75 	
+Sophisticated Material 	Common 	Armour 	Indomitus Mirror 49 	83.3 	
+Sophisticated Material 	Common 	Armour 	Indomitus Elite 33 	100 	40
+Special Issue Ammo 	Epic 	Damage 	Octarius 40 	25 	
+Special Issue Ammo 	Epic 	Damage 	Indomitus Mirror 28 	33.3 	
+Special Issue Ammo 	Epic 	Damage 	Indomitus Elite 37 	67 	
+Standard-Issue Tourniquet 	Common 	Health 	Indomitus 39 	75 	
+Standard-Issue Tourniquet 	Common 	Health 	Fall of Cadia 12 	75 	
+Standard-Issue Tourniquet 	Common 	Health 	Octarius 59 	75 	
+Standard-Issue Tourniquet 	Common 	Health 	Indomitus Mirror 69 	83.3 	
+Standard-Issue Tourniquet 	Common 	Health 	Octarius Mirror 5 	83.3 	
+Standard-Issue Tourniquet 	Common 	Health 	Octarius Elite 10 	100 	40
+Stimm Injector 	Rare 	Health 	Indomitus Mirror 38 	40 	
+Stimm Injector 	Rare 	Health 	Indomitus Elite 20 	100 	11
+Stone Guardian Fragment 	Legendary 	Health 			
+Tank of Promethium 	Rare 	Damage 	Indomitus 62 	33.3 	
+Tank of Promethium 	Rare 	Damage 	Indomitus Mirror 44 	40 	
+Tank of Promethium 	Rare 	Damage 	Octarius Mirror 48 	40 	
+Targeting Link 	Common 	Damage 	Indomitus 72 	75 	
+Targeting Link 	Common 	Damage 	Fall of Cadia 21 	75 	
+Targeting Link 	Common 	Damage 	Fall of Cadia Mirror 20 	83.3 	
+Targeting Link 	Common 	Damage 	Octarius Mirror 65 	83.3 	
+Targeting Link 	Common 	Damage 	Octarius Elite 9 	100 	40
+Terminator Honours 	Epic 	Health 	Octarius 42 	25 	
+Terminator Honours 	Epic 	Health 	Indomitus Mirror 31 	33.3 	
+Terminator Honours 	Epic 	Health 	Fall of Cadia Mirror 31 	33.3 	
+Terminator Honours 	Epic 	Health 	Indomitus Elite 31 	67 	
+The Gold Phoenix 	Uncommon 	Health 	Indomitus 23 	60 	
+The Gold Phoenix 	Uncommon 	Health 	Octarius 28 	60 	
+The Gold Phoenix 	Uncommon 	Health 	Fall of Cadia Mirror 12 	71.4 	
+The Gold Phoenix 	Uncommon 	Health 	Octarius Mirror 51 	71.4 	
+The Gold Phoenix 	Uncommon 	Health 	Indomitus Elite 6 	100 	17
+The Iron Phoenix 	Common 	Health 	Indomitus 16 	75 	
+The Iron Phoenix 	Common 	Health 	Fall of Cadia Mirror 18 	83.3 	
+The Phoenix Ascendant 	Rare 	Health 	Fall of Cadia 64 	33.3 	
+The Phoenix Ascendant 	Rare 	Health 	Indomitus Mirror 20 	40 	
+The Phoenix Ascendant 	Rare 	Health 	Fall of Cadia Mirror 49 	40 	
+The Phoenix Ascendant 	Rare 	Health 	Octarius Mirror 37 	40 	
+The Phoenix Ascendant 	Rare 	Health 	Indomitus Elite 7 	100 	11
+The Silver Aquila 	Common 	Health 	Fall of Cadia 49 	75 	
+The Silver Aquila 	Common 	Health 	Octarius 63 	75 	
+The Silver Aquila 	Common 	Health 	Indomitus Mirror 66 	83.3 	
+The Silver Eagle with Swords 	Uncommon 	Health 	Indomitus 69 	60 	
+The Silver Eagle with Swords 	Uncommon 	Health 	Indomitus Mirror 37 	71.4 	
+The Silver Scope 	Uncommon 	Health 	Indomitus 34 	60 	
+The Silver Scope 	Uncommon 	Health 	Octarius 27 	60 	
+The Silver Scope 	Uncommon 	Health 	Fall of Cadia Mirror 5 	71.4 	
+Thick Skin 	Common 	Armour 	Fall of Cadia 48 	75 	
+Thick Skin 	Common 	Armour 	Octarius 5 	75 	
+Thick Skin 	Common 	Armour 	Octarius Elite 5 	100 	40
+Transdimensional Sanctum 	Legendary 	Armour 	Fall of Cadia Mirror 39 	16.7 	
+Unnatural Vapour Dispenser 	Rare 	Armour 	Fall of Cadia 59 	33.3 	
+Unnatural Vapour Dispenser 	Rare 	Armour 	Fall of Cadia Mirror 53 	40 	
+Unnatural Vapour Dispenser 	Rare 	Armour 	Fall of Cadia Elite 22 	100 	11
+Viridian Energy Pack 	Common 	Damage 	Indomitus 56 	75 	
+Viridian Energy Pack 	Common 	Damage 	Indomitus Mirror 50 	83.3 	
+Viridian Energy Tesseract 	Rare 	Damage 	Indomitus Elite 26 	40 	
+Viridian Energy Tesseract 	Rare 	Damage 	Indomitus Mirror 22 	40 	
+Viridian Energy Tesseract 	Rare 	Damage 	Fall of Cadia Mirror 51 	100 	11
+Vox-Caster 	Common 	Damage 	Fall of Cadia 8 	75 	
+Vox-Caster 	Common 	Damage 	Octarius 14 	75 	
+Vox-Caster 	Common 	Damage 	Octarius Mirror 21 	83.3 	
+Warp Locus 	Epic 	Damage 	Fall of Cadia Mirror 25 	33.3 	
+Warp Locus 	Epic 	Damage 	Fall of Cadia Elite 31 	67 	
+Waystone 	Rare 	Health 	Octarius 44 	33.3 	
+Waystone 	Rare 	Health 	Fall of Cadia Mirror 33 	40 	
+Weapon Anointment Oils 	Common 	Damage 	Indomitus 52 	75 	
+Weapon Anointment Oils 	Common 	Damage 	Fall of Cadia 44 	75 	
+Weapon Anointment Oils 	Common 	Damage 	Octarius 65 	75 	
+Weapon Anointment Oils 	Common 	Damage 	Indomitus Mirror 54 	83.3 	
+Weapon Anointment Oils 	Common 	Damage 	Octarius Mirror 10 	83.3 	
+Weapon Anointment Oils 	Common 	Damage 	Indomitus Elite 9 	100 	40
+Weapon Parts 	Common 	Damage 	Fall of Cadia 13 	75 	
+Weapon Parts 	Common 	Damage 	Octarius 8 	75 	
+Weapon Parts 	Common 	Damage 	Indomitus Mirror  2 	83.3 	
+Weapon Parts 	Common 	Damage 	Fall of Cadia Mirror 23 	83.3 	
+Weapon Parts 	Common 	Damage 	Octarius Mirror 3 	83.3 	
+Weapon Parts 	Common 	Damage 	Octarius Elite 33 	100 	40
+Wires 	Common 	Health 	Indomitus 44 	75 	
+Wires 	Common 	Health 	Fall of Cadia 3 	75 	
+Wires 	Common 	Health 	Octarius 2 	75 	
+Wires 	Common 	Health 	Indomitus Mirror 4 	83.3 	
+Wires 	Common 	Health 	Octarius Mirror 8 	83.3 	
+Wolf Tail Talisman 	Rare 	Health 	Octarius Mirror 54 	40 	
+Wolf Tail Talisman 	Rare 	Health 	Octarius Elite 20 	100 	11
+Wolf Tooth Necklace 	Rare 	Damage 	Octarius Mirror 64 	40 	
+Wolf Tooth Necklace 	Rare 	Damage 	Octarius Elite 18 	100 	11
+Wraithbone Plate 	Rare 	Armour 	Fall of Cadia 71 	33.3 	
+Wraithbone Plate 	Rare 	Armour 	Fall of Cadia Mirror 48 	40 	
+Writings 	Uncommon 	Health 	Fall of Cadia 42 	60 	
+Writings 	Uncommon 	Health 	Octarius 24 	60 	
+Writings 	Uncommon 	Health 	Octarius Mirror 33 	71.4 	
+Writings 	Uncommon 	Health 	Indomitus Elite 12 	100 	17
+Zeidos Ribbon 	Rare 	Health 	Fall of Cadia 67 	33.3 	
+Zeidos Ribbon 	Rare 	Health 	Indomitus Mirror 16 	40 	
+Zeidos Ribbon 	Rare 	Health 	Fall of Cadia Mirror 43 	40 	
+Zeidos Ribbon 	Rare 	Health 	Fall of Cadia Elite 26 	100 	11 
