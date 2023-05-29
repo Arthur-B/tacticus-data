@@ -1,0 +1,504 @@
+,Upgrade,Rarity,Stat,Campaign,Variation,Level,Drop rate (%),Cost,Return per energy
+0,Adamantium Filaments,Common,Health,Indomitus,Standard,59,0.75,6,0.125
+1,Adamantium Filaments,Common,Health,Octarius,Standard,7,0.75,6,0.125
+2,Adamantium Filaments,Common,Health,Indomitus,Mirror,47,0.833,6,0.13883333333333334
+3,Adamantium Filaments,Common,Health,Octarius,Elite,11,1.4,10,0.13999999999999999
+4,Adamantium Ore,Common,Armour,Indomitus,Standard,48,0.75,6,0.125
+5,Adamantium Ore,Common,Armour,Fall of Cadia,Standard,14,0.75,6,0.125
+6,Adamantium Ore,Common,Armour,Octarius,Standard,71,0.75,6,0.125
+7,Adamantium Ore,Common,Armour,Indomitus,Mirror,58,0.833,6,0.13883333333333334
+8,Adamantium Ore,Common,Armour,Octarius,Mirror,27,0.833,6,0.13883333333333334
+9,Adamantium Ore,Common,Armour,Indomitus,Elite,1,1.4,10,0.13999999999999999
+10,Advanced Filaments,Uncommon,Health,Indomitus,Standard,61,0.6,6,0.09999999999999999
+11,Advanced Filaments,Uncommon,Health,Indomitus,Mirror,46,0.7140000000000001,6,0.11900000000000001
+12,Advanced Filaments,Uncommon,Health,Octarius,Mirror,58,0.7140000000000001,6,0.11900000000000001
+13,Advanced Filaments,Uncommon,Health,Octarius,Elite,6,1.17,10,0.11699999999999999
+14,Advanced Rebreather,Uncommon,Armour,Indomitus,Standard,68,0.6,6,0.09999999999999999
+15,Advanced Rebreather,Uncommon,Armour,Octarius,Standard,33,0.6,6,0.09999999999999999
+16,Advanced Rebreather,Uncommon,Armour,Octarius,Mirror,46,0.7140000000000001,6,0.11900000000000001
+17,Air Purificator,Uncommon,Armour,Fall of Cadia,Standard,63,0.6,6,0.09999999999999999
+18,Air Purificator,Uncommon,Armour,Indomitus,Mirror,9,0.7140000000000001,6,0.11900000000000001
+19,Air Purificator,Uncommon,Armour,Fall of Cadia,Mirror,61,0.7140000000000001,6,0.11900000000000001
+20,Ancient Runes,Rare,Health,Octarius,Standard,32,0.33299999999999996,6,0.055499999999999994
+21,Ancient Runes,Rare,Health,Indomitus,Mirror,23,0.4,6,0.06666666666666667
+22,Ancient Runes,Rare,Health,Fall of Cadia,Mirror,52,0.4,6,0.06666666666666667
+23,Ancient Runes,Rare,Health,Octarius,Elite,7,1.11,10,0.11100000000000002
+24,Archeotech Bionics,Legendary,Damage,Fall of Cadia,Mirror,36,0.16699999999999998,6,0.02783333333333333
+25,'Ard Plate,Rare,Armour,Octarius,Standard,51,0.33299999999999996,6,0.055499999999999994
+26,'Ard Plate,Rare,Armour,Octarius,Mirror,69,0.4,6,0.06666666666666667
+27,'Ard Plate,Rare,Armour,Octarius,Elite,21,1.11,10,0.11100000000000002
+28,Armor Trim,Common,Armour,Fall of Cadia,Standard,7,0.75,6,0.125
+29,Armor Trim,Common,Armour,Octarius,Standard,11,0.75,6,0.125
+30,Armor Trim,Common,Armour,Octarius,Mirror,22,0.833,6,0.13883333333333334
+31,Armor Trim,Common,Armour,Fall of Cadia,Elite,1,1.4,10,0.13999999999999999
+32,Artificer Tasset Plate,Rare,Armour,Octarius,Standard,37,0.33299999999999996,6,0.055499999999999994
+33,Artificer Tasset Plate,Rare,Armour,Indomitus,Mirror,18,0.4,6,0.06666666666666667
+34,Artificer Tasset Plate,Rare,Armour,Fall of Cadia,Mirror,47,0.4,6,0.06666666666666667
+35,Artificer Tasset Plate,Rare,Armour,Octarius,Mirror,49,0.4,6,0.06666666666666667
+36,Artificer Tasset Plate,Rare,Armour,Fall of Cadia,Elite,36,1.11,10,0.11100000000000002
+37,Artificial Vertebrae,Uncommon,Health,Fall of Cadia,Standard,38,0.6,6,0.09999999999999999
+38,Artificial Vertebrae,Uncommon,Health,Indomitus,Mirror,11,0.7140000000000001,6,0.11900000000000001
+39,Artificial Vertebrae,Uncommon,Health,Fall of Cadia,Mirror,63,0.7140000000000001,6,0.11900000000000001
+40,Artificial Vertebrae,Uncommon,Health,Fall of Cadia,Elite,35,1.17,10,0.11699999999999999
+41,Attack Vector Data-Slate,Uncommon,Damage,Indomitus,Standard,25,0.6,5,0.12
+42,Attack Vector Data-Slate,Uncommon,Damage,Fall of Cadia,Standard,35,0.6,6,0.09999999999999999
+43,Attack Vector Data-Slate,Uncommon,Damage,Octarius,Standard,70,0.6,6,0.09999999999999999
+44,Attack Vector Data-Slate,Uncommon,Damage,Fall of Cadia,Mirror,11,0.7140000000000001,6,0.11900000000000001
+45,Auspex,Common,Damage,Fall of Cadia,Standard,19,0.75,6,0.125
+46,Auspex,Common,Damage,Octarius,Standard,64,0.75,6,0.125
+47,Auspex,Common,Damage,Indomitus,Mirror,59,0.833,6,0.13883333333333334
+48,Auspex,Common,Damage,Octarius,Mirror,19,0.833,6,0.13883333333333334
+49,Bad Moon Teef,Rare,Health,Octarius,Standard,46,0.33299999999999996,6,0.055499999999999994
+50,Bad Moon Teef,Rare,Health,Octarius,Mirror,61,0.4,6,0.06666666666666667
+51,Bad Moon Teef,Rare,Health,Octarius,Elite,19,1.11,10,0.11100000000000002
+52,Ballistics Data,Common,Damage,Indomitus,Standard,47,0.75,6,0.125
+53,Ballistics Data,Common,Damage,Fall of Cadia,Standard,55,0.75,6,0.125
+54,Ballistics Data,Common,Damage,Indomitus,Mirror,61,0.833,6,0.13883333333333334
+55,Ballistics Data,Common,Damage,Octarius,Mirror,68,0.833,6,0.13883333333333334
+56,Ballistics Data,Common,Damage,Octarius,Elite,3,1.4,10,0.13999999999999999
+57,Barrel of Promethium,Uncommon,Damage,Indomitus,Standard,54,0.6,6,0.09999999999999999
+58,Barrel of Promethium,Uncommon,Damage,Fall of Cadia,Standard,33,0.6,6,0.09999999999999999
+59,Barrel of Promethium,Uncommon,Damage,Octarius,Standard,56,0.6,6,0.09999999999999999
+60,Barrel of Promethium,Uncommon,Damage,Indomitus,Mirror,52,0.7140000000000001,6,0.11900000000000001
+61,Barrel of Promethium,Uncommon,Damage,Octarius,Mirror,28,0.7140000000000001,6,0.11900000000000001
+62,Basic Auxiliary Core,Common,Damage,Indomitus,Standard,22,0.75,5,0.15
+63,Basic Auxiliary Core,Common,Damage,Fall of Cadia,Standard,32,0.75,6,0.125
+64,Basic Auxiliary Core,Common,Damage,Octarius,Standard,53,0.75,6,0.125
+65,Basic Auxiliary Core,Common,Damage,Fall of Cadia,Mirror,19,0.833,6,0.13883333333333334
+66,Basic Auxiliary Core,Common,Damage,Octarius,Mirror,14,0.833,6,0.13883333333333334
+67,Basic Auxiliary Core,Common,Damage,Indomitus,Elite,5,1.4,10,0.13999999999999999
+68,Battle Scar,Rare,Health,Fall of Cadia,Standard,22,0.33299999999999996,6,0.055499999999999994
+69,Battle Scar,Rare,Health,Octarius,Standard,74,0.33299999999999996,6,0.055499999999999994
+70,Battle Scar,Rare,Health,Fall of Cadia,Mirror,42,0.4,6,0.06666666666666667
+71,Battle Scar,Rare,Health,Octarius,Mirror,57,0.4,6,0.06666666666666667
+72,Battle Scar,Rare,Health,Octarius,Elite,30,1.11,10,0.11100000000000002
+73,Beast Hide,Rare,Armour,Fall of Cadia,Standard,51,0.33299999999999996,6,0.055499999999999994
+74,Beast Hide,Rare,Armour,Octarius,Elite,22,1.11,10,0.11100000000000002
+75,Bionic Eye,Rare,Damage,Fall of Cadia,Standard,69,0.33299999999999996,6,0.055499999999999994
+76,Bionic Eye,Rare,Damage,Indomitus,Mirror,19,0.4,6,0.06666666666666667
+77,Bionic Eye,Rare,Damage,Fall of Cadia,Mirror,32,0.4,6,0.06666666666666667
+78,Bionic Eye,Rare,Damage,Octarius,Elite,36,1.11,10,0.11100000000000002
+79,Bionic Neural Pathways,Epic,Damage,Octarius,Standard,43,0.25,6,0.041666666666666664
+80,Bionic Neural Pathways,Epic,Damage,Fall of Cadia,Mirror,29,0.33299999999999996,6,0.055499999999999994
+81,Bionic Neural Pathways,Epic,Damage,Octarius,Mirror,73,0.33299999999999996,6,0.055499999999999994
+82,Bionic Neural Pathways,Epic,Damage,Octarius,Elite,37,0.67,10,0.067
+83,Bladesman's Honour,Rare,Damage,Octarius,Standard,22,0.33299999999999996,6,0.055499999999999994
+84,Bladesman's Honour,Rare,Damage,Octarius,Mirror,41,0.4,6,0.06666666666666667
+85,Blasphemous Armor Trim,Rare,Armour,Fall of Cadia,Standard,65,0.33299999999999996,6,0.055499999999999994
+86,Blasphemous Armor Trim,Rare,Armour,Fall of Cadia,Mirror,65,0.4,6,0.06666666666666667
+87,Blasphemous Armor Trim,Rare,Armour,Fall of Cadia,Elite,21,1.11,10,0.11100000000000002
+88,Blessed Corset Armor,Rare,Armour,Octarius,Standard,50,0.33299999999999996,6,0.055499999999999994
+89,Blessed Corset Armor,Rare,Armour,Fall of Cadia,Mirror,67,0.4,6,0.06666666666666667
+90,Blessed Corset Armor,Rare,Armour,Indomitus,Elite,21,1.11,10,0.11100000000000002
+91,Blessed Promethium Canister,Epic,Damage,Fall of Cadia,Standard,73,0.25,6,0.041666666666666664
+92,Blessed Promethium Canister,Epic,Damage,Indomitus,Mirror,26,0.33299999999999996,6,0.055499999999999994
+93,Blessed Promethium Canister,Epic,Damage,Fall of Cadia,Mirror,26,0.33299999999999996,6,0.055499999999999994
+94,Blessed Tabbard,Rare,Armour,Octarius,Standard,54,0.33299999999999996,6,0.055499999999999994
+95,Blessed Tabbard,Rare,Armour,Octarius,Mirror,66,0.4,6,0.06666666666666667
+96,Blessed Tabbard,Rare,Armour,Octarius,Elite,27,1.11,10,0.11100000000000002
+97,Blessed Tasset Plate,Uncommon,Armour,Fall of Cadia,Standard,23,0.6,6,0.09999999999999999
+98,Blessed Tasset Plate,Uncommon,Armour,Octarius,Standard,19,0.6,6,0.09999999999999999
+99,Blessed Tasset Plate,Uncommon,Armour,Indomitus,Mirror,10,0.7140000000000001,6,0.11900000000000001
+100,Blessed Tasset Plate,Uncommon,Armour,Octarius,Mirror,24,0.7140000000000001,6,0.11900000000000001
+101,Blessed Tasset Plate,Uncommon,Armour,Indomitus,Elite,34,1.17,10,0.11699999999999999
+102,Blessing of Nurgle,Legendary,Health,Fall of Cadia,Elite,29,0.4,10,0.04
+103,Blessing of Nurgle,Legendary,Health,Fall of Cadia,Elite,39,0.4,10,0.04
+104,Blessing of the Dark Gods,Legendary,Health,Fall of Cadia,Elite,23,0.4,10,0.04
+105,Blessing of the Dark Gods,Legendary,Health,Fall of Cadia,Elite,38,0.4,10,0.04
+106,Bones of the Paragons,Legendary,Health,Octarius,Mirror,70,0.16699999999999998,6,0.02783333333333333
+107,Bones of the Paragons,Legendary,Health,Octarius,Elite,28,0.4,10,0.04
+108,Box of Salvage,Uncommon,Armour,Indomitus,Standard,31,0.6,6,0.09999999999999999
+109,Box of Salvage,Uncommon,Armour,Fall of Cadia,Standard,28,0.6,6,0.09999999999999999
+110,Box of Salvage,Uncommon,Armour,Octarius,Standard,58,0.6,6,0.09999999999999999
+111,Box of Salvage,Uncommon,Armour,Fall of Cadia,Mirror,8,0.7140000000000001,6,0.11900000000000001
+112,Box of Salvage,Uncommon,Armour,Octarius,Elite,4,1.17,10,0.11699999999999999
+113,Can of Promethium,Common,Damage,Indomitus,Standard,50,0.75,6,0.125
+114,Can of Promethium,Common,Damage,Fall of Cadia,Standard,47,0.75,6,0.125
+115,Can of Promethium,Common,Damage,Indomitus,Mirror,56,0.833,6,0.13883333333333334
+116,Can of Promethium,Common,Damage,Octarius,Mirror,32,0.833,6,0.13883333333333334
+117,Canister of Promethium,Common,Damage,Indomitus,Standard,46,0.75,6,0.125
+118,Canister of Promethium,Common,Damage,Fall of Cadia,Standard,24,0.75,6,0.125
+119,Canister of Promethium,Common,Damage,Octarius,Standard,61,0.75,6,0.125
+120,Canister of Promethium,Common,Damage,Indomitus,Mirror,62,0.833,6,0.13883333333333334
+121,Canister of Promethium,Common,Damage,Octarius,Mirror,2,0.833,6,0.13883333333333334
+122,Canister of Promethium,Common,Damage,Fall of Cadia,Elite,11,1.4,10,0.13999999999999999
+123,Ceramite Lump,Uncommon,Armour,Indomitus,Standard,26,0.6,5,0.12
+124,Ceramite Lump,Uncommon,Armour,Octarius,Standard,20,0.6,6,0.09999999999999999
+125,Ceramite Lump,Uncommon,Armour,Fall of Cadia,Mirror,10,0.7140000000000001,6,0.11900000000000001
+126,Ceramite Lump,Uncommon,Armour,Octarius,Mirror,39,0.7140000000000001,6,0.11900000000000001
+127,Ceramite Lump,Uncommon,Armour,Indomitus,Elite,35,1.17,10,0.11699999999999999
+128,Chain of Zeal,Rare,Damage,Octarius,Standard,41,0.33299999999999996,6,0.055499999999999994
+129,Chain of Zeal,Rare,Damage,Octarius,Mirror,59,0.4,6,0.06666666666666667
+130,Chain of Zeal,Rare,Damage,Octarius,Elite,25,1.11,10,0.11100000000000002
+132,Chip Damage,Common,Health,Fall of Cadia,Standard,6,0.75,6,0.125
+133,Chip Damage,Common,Health,Octarius,Standard,3,0.75,6,0.125
+134,Chip Damage,Common,Health,Indomitus,Mirror,24,0.833,6,0.13883333333333334
+135,Chip Damage,Common,Health,Octarius,Mirror,16,0.833,6,0.13883333333333334
+136,Chip Damage,Common,Health,Octarius,Elite,2,1.4,10,0.13999999999999999
+137,Classified Data-Slate,Rare,Damage,Fall of Cadia,Standard,62,0.33299999999999996,6,0.055499999999999994
+138,Classified Data-Slate,Rare,Damage,Indomitus,Mirror,13,0.4,6,0.06666666666666667
+139,Classified Data-Slate,Rare,Damage,Fall of Cadia,Mirror,41,0.4,6,0.06666666666666667
+140,Classified Data-Slate,Rare,Damage,Octarius,Mirror,50,0.4,6,0.06666666666666667
+141,Classified Data-Slate,Rare,Damage,Indomitus,Elite,25,1.11,10,0.11100000000000002
+142,Cloak,Uncommon,Armour,Fall of Cadia,Standard,37,0.6,6,0.09999999999999999
+143,Cloak,Uncommon,Armour,Octarius,Standard,10,0.6,6,0.09999999999999999
+144,Cloak,Uncommon,Armour,Octarius,Mirror,34,0.7140000000000001,6,0.11900000000000001
+145,Cloak,Uncommon,Armour,Fall of Cadia,Elite,4,1.17,10,0.11699999999999999
+146,Codex Page,Legendary,Health,Indomitus,Elite,23,0.4,10,0.04
+147,Codex Page,Legendary,Health,Indomitus,Elite,38,0.4,10,0.04
+148,Combat Stimms,Uncommon,Damage,Fall of Cadia,Standard,58,0.6,6,0.09999999999999999
+149,Combat Stimms,Uncommon,Damage,Octarius,Standard,9,0.6,6,0.09999999999999999
+150,Combat Stimms,Uncommon,Damage,Indomitus,Mirror,6,0.7140000000000001,6,0.11900000000000001
+151,Combat Stimms,Uncommon,Damage,Fall of Cadia,Mirror,56,0.7140000000000001,6,0.11900000000000001
+152,Crate of Salvage,Rare,Armour,Fall of Cadia,Standard,11,0.33299999999999996,6,0.055499999999999994
+153,Crate of Salvage,Rare,Armour,Indomitus,Mirror,12,0.4,6,0.06666666666666667
+154,Crate of Salvage,Rare,Armour,Fall of Cadia,Mirror,40,0.4,6,0.06666666666666667
+155,Crate of Salvage,Rare,Armour,Octarius,Mirror,38,0.4,6,0.06666666666666667
+156,Crate of Salvage,Rare,Armour,Octarius,Elite,15,1.11,10,0.11100000000000002
+158,Divinator Class Auspex,Uncommon,Damage,Octarius,Standard,73,0.6,6,0.09999999999999999
+159,Divinator Class Auspex,Uncommon,Damage,Indomitus,Mirror,63,0.7140000000000001,6,0.11900000000000001
+160,Drone Controller,Rare,Armour,Fall of Cadia,Mirror,50,0.4,6,0.06666666666666667
+161,Drone Controller,Rare,Armour,Indomitus,Elite,22,1.11,10,0.11100000000000002
+162,Engram Neurochip,Legendary,Health,Fall of Cadia,Mirror,62,0.16699999999999998,6,0.02783333333333333
+163,Engram Neurochip,Legendary,Health,Indomitus,Elite,30,0.4,10,0.04
+164,Engrammatic Entangler,Legendary,Health,Indomitus,Standard,74,0.125,6,0.020833333333333332
+165,Engrammatic Entangler,Legendary,Health,Indomitus,Mirror,71,0.16699999999999998,6,0.02783333333333333
+166,Engrammatic Entangler,Legendary,Health,Indomitus,Elite,28,0.4,10,0.04
+167,Enriched Rations,Uncommon,Health,Indomitus,Standard,20,0.6,5,0.12
+168,Enriched Rations,Uncommon,Health,Fall of Cadia,Mirror,14,0.7140000000000001,6,0.11900000000000001
+169,Enriched Rations,Uncommon,Health,Octarius,Mirror,62,0.7140000000000001,6,0.11900000000000001
+170,Enriched Rations,Uncommon,Health,Indomitus,Elite,4,1.17,10,0.11699999999999999
+171,Enriched Rations,Uncommon,Health,Octarius,Elite,34,1.17,10,0.11699999999999999
+172,Entrenching Tool,Rare,Damage,Fall of Cadia,Standard,53,0.33299999999999996,6,0.055499999999999994
+173,Entrenching Tool,Rare,Damage,Fall of Cadia,Mirror,59,0.4,6,0.06666666666666667
+174,Entrenching Tool,Rare,Damage,Fall of Cadia,Elite,25,1.11,10,0.11100000000000002
+175,Eye of Horus,Rare,Health,Fall of Cadia,Standard,56,0.33299999999999996,6,0.055499999999999994
+176,Eye of Horus,Rare,Health,Fall of Cadia,Mirror,55,0.4,6,0.06666666666666667
+177,Eye of Horus,Rare,Health,Fall of Cadia,Elite,19,1.11,10,0.11100000000000002
+178,Field Ration,Common,Health,Indomitus,Standard,37,0.75,6,0.125
+179,Field Ration,Common,Health,Fall of Cadia,Standard,50,0.75,6,0.125
+180,Field Ration,Common,Health,Fall of Cadia,Mirror,2,0.833,6,0.13883333333333334
+181,Field Ration,Common,Health,Octarius,Mirror,17,0.833,6,0.13883333333333334
+182,Fine Micro-Generator,Uncommon,Damage,Indomitus,Standard,43,0.6,6,0.09999999999999999
+183,Fine Micro-Generator,Uncommon,Damage,Fall of Cadia,Standard,31,0.6,6,0.09999999999999999
+184,Fine Micro-Generator,Uncommon,Damage,Octarius,Standard,69,0.6,6,0.09999999999999999
+185,Fine Micro-Generator,Uncommon,Damage,Indomitus,Mirror,64,0.7140000000000001,6,0.11900000000000001
+186,Fine Micro-Generator,Uncommon,Damage,Octarius,Mirror,29,0.7140000000000001,6,0.11900000000000001
+187,Fine Micro-Generator,Uncommon,Damage,Fall of Cadia,Elite,14,1.17,10,0.11699999999999999
+188,Fine Purity Seal,Common,Armour,Indomitus,Standard,32,0.75,6,0.125
+189,Fine Purity Seal,Common,Armour,Fall of Cadia,Mirror,7,0.833,6,0.13883333333333334
+190,Fine Purity Seal,Common,Armour,Octarius,Mirror,31,0.833,6,0.13883333333333334
+191,Fine Purity Seal,Common,Armour,Indomitus,Elite,10,1.4,10,0.13999999999999999
+192,Flak Plates,Rare,Armour,Fall of Cadia,Standard,70,0.33299999999999996,6,0.055499999999999994
+193,Flak Plates,Rare,Armour,Fall of Cadia,Mirror,70,0.4,6,0.06666666666666667
+194,Flak Plates,Rare,Armour,Fall of Cadia,Elite,27,1.11,10,0.11100000000000002
+195,Frag Grenade,Common,Damage,Indomitus,Standard,17,0.75,5,0.15
+196,Frag Grenade,Common,Damage,Fall of Cadia,Standard,29,0.75,6,0.125
+197,Frag Grenade,Common,Damage,Fall of Cadia,Mirror,17,0.833,6,0.13883333333333334
+198,Frag Grenade,Common,Damage,Octarius,Mirror,4,0.833,6,0.13883333333333334
+199,Golden Ornamental Skull,Epic,Health,Fall of Cadia,Standard,72,0.25,6,0.041666666666666664
+200,Golden Ornamental Skull,Epic,Health,Indomitus,Mirror,27,0.33299999999999996,6,0.055499999999999994
+201,Golden Ornamental Skull,Epic,Health,Fall of Cadia,Mirror,27,0.33299999999999996,6,0.055499999999999994
+202,Golden Ornamental Skull,Epic,Health,Fall of Cadia,Elite,37,0.67,10,0.067
+203,Greater Reliquary of Vengeance,Epic,Damage,Fall of Cadia,Standard,61,0.25,6,0.041666666666666664
+204,Greater Reliquary of Vengeance,Epic,Damage,Indomitus,Mirror,25,0.33299999999999996,6,0.055499999999999994
+205,Greater Reliquary of Vengeance,Epic,Damage,Fall of Cadia,Mirror,73,0.33299999999999996,6,0.055499999999999994
+206,Greater Reliquary of Vengeance,Epic,Damage,Indomitus,Elite,27,0.67,10,0.067
+207,Healing Ointment,Common,Health,Indomitus,Standard,53,0.75,6,0.125
+208,Healing Ointment,Common,Health,Fall of Cadia,Standard,18,0.75,6,0.125
+209,Healing Ointment,Common,Health,Indomitus,Mirror,53,0.833,6,0.13883333333333334
+210,Healing Ointment,Common,Health,Octarius,Mirror,6,0.833,6,0.13883333333333334
+211,Helmet Trophy,Uncommon,Health,Fall of Cadia,Standard,41,0.6,6,0.09999999999999999
+212,Helmet Trophy,Uncommon,Health,Octarius,Standard,31,0.6,6,0.09999999999999999
+213,Helmet Trophy,Uncommon,Health,Indomitus,Mirror,5,0.7140000000000001,6,0.11900000000000001
+214,Helmet Trophy,Uncommon,Health,Fall of Cadia,Mirror,54,0.7140000000000001,6,0.11900000000000001
+215,Helmet Trophy,Uncommon,Health,Fall of Cadia,Elite,12,1.17,10,0.11699999999999999
+216,Holy Chaplet,Legendary,Health,Indomitus,Mirror,72,0.16699999999999998,6,0.02783333333333333
+217,Holy Chaplet,Legendary,Health,Indomitus,Elite,29,0.4,10,0.04
+218,Holy Chaplet,Legendary,Health,Indomitus,Elite,39,0.4,10,0.04
+219,Honourifica Imperialis,Legendary,Health,Fall of Cadia,Mirror,66,0.16699999999999998,6,0.02783333333333333
+220,Honourifica Imperialis,Legendary,Health,Fall of Cadia,Elite,28,0.4,10,0.04
+221,Hymn of Martyrs,Rare,Damage,Fall of Cadia,Standard,57,0.33299999999999996,6,0.055499999999999994
+222,Hymn of Martyrs,Rare,Damage,Indomitus,Mirror,33,0.4,6,0.06666666666666667
+223,Hymn of Martyrs,Rare,Damage,Indomitus,Elite,17,1.11,10,0.11100000000000002
+224,Hypermaterial Shifter,Epic,Armour,Indomitus,Standard,73,0.25,6,0.041666666666666664
+225,Hypermaterial Shifter,Epic,Armour,Indomitus,Mirror,74,0.33299999999999996,6,0.055499999999999994
+226,Hypermaterial Shifter,Epic,Armour,Fall of Cadia,Mirror,74,0.33299999999999996,6,0.055499999999999994
+227,Icon of Vengeance,Rare,Damage,Fall of Cadia,Standard,54,0.33299999999999996,6,0.055499999999999994
+228,Icon of Vengeance,Rare,Damage,Fall of Cadia,Mirror,44,0.4,6,0.06666666666666667
+229,Icon of Vengeance,Rare,Damage,Fall of Cadia,Elite,17,1.11,10,0.11100000000000002
+230,Iron Jaw,Rare,Damage,Octarius,Standard,35,0.33299999999999996,6,0.055499999999999994
+231,Iron Jaw,Rare,Damage,Octarius,Mirror,53,0.4,6,0.06666666666666667
+232,Iron Jaw,Rare,Damage,Octarius,Elite,17,1.11,10,0.11100000000000002
+234,Kill Count,Rare,Health,Fall of Cadia,Standard,17,0.33299999999999996,6,0.055499999999999994
+235,Kill Count,Rare,Health,Octarius,Standard,34,0.33299999999999996,6,0.055499999999999994
+236,Kill Count,Rare,Health,Indomitus,Mirror,14,0.4,6,0.06666666666666667
+237,Kill Count,Rare,Health,Octarius,Mirror,56,0.4,6,0.06666666666666667
+238,Kill Count,Rare,Health,Fall of Cadia,Elite,15,1.11,10,0.11100000000000002
+239,Krak Grenade,Rare,Damage,Indomitus,Standard,70,0.33299999999999996,6,0.055499999999999994
+240,Krak Grenade,Rare,Damage,Octarius,Standard,39,0.33299999999999996,6,0.055499999999999994
+241,Krak Grenade,Rare,Damage,Indomitus,Mirror,36,0.4,6,0.06666666666666667
+242,Krak Grenade,Rare,Damage,Octarius,Mirror,55,0.4,6,0.06666666666666667
+243,Krak Grenade,Rare,Damage,Indomitus,Elite,36,1.11,10,0.11100000000000002
+244,Kustom Gubbinz,Legendary,Health,Octarius,Mirror,72,0.16699999999999998,6,0.02783333333333333
+245,Kustom Gubbinz,Legendary,Health,Octarius,Elite,23,0.4,10,0.04
+246,Kustom Gubbinz,Legendary,Health,Octarius,Elite,38,0.4,10,0.04
+247,Lesser Reliquary of Protection,Common,Health,Indomitus,Standard,33,0.75,6,0.125
+248,Lesser Reliquary of Protection,Common,Health,Fall of Cadia,Standard,27,0.75,6,0.125
+249,Lesser Reliquary of Protection,Common,Health,Octarius,Standard,67,0.75,6,0.125
+250,Lesser Reliquary of Protection,Common,Health,Fall of Cadia,Mirror,6,0.833,6,0.13883333333333334
+251,Lesser Reliquary of Protection,Common,Health,Octarius,Mirror,20,0.833,6,0.13883333333333334
+252,Lesser Reliquary of Vengeance,Common,Damage,Indomitus,Standard,51,0.75,6,0.125
+253,Lesser Reliquary of Vengeance,Common,Damage,Indomitus,Mirror,55,0.833,6,0.13883333333333334
+254,Locator Beacon,Uncommon,Damage,Indomitus,Standard,36,0.6,6,0.09999999999999999
+255,Locator Beacon,Uncommon,Damage,Octarius,Standard,72,0.6,6,0.09999999999999999
+256,Locator Beacon,Uncommon,Damage,Fall of Cadia,Mirror,3,0.7140000000000001,6,0.11900000000000001
+257,Locator Beacon,Uncommon,Damage,Octarius,Mirror,43,0.7140000000000001,6,0.11900000000000001
+258,Locator Beacon,Uncommon,Damage,Fall of Cadia,Elite,34,1.17,10,0.11699999999999999
+259,Marksman's Honour,Uncommon,Damage,Indomitus,Standard,35,0.6,6,0.09999999999999999
+260,Marksman's Honour,Uncommon,Damage,Fall of Cadia,Mirror,4,0.7140000000000001,6,0.11900000000000001
+261,Master-Crafted Ammo,Legendary,Damage,Fall of Cadia,Mirror,34,0.16699999999999998,6,0.02783333333333333
+262,Mesh Weave,Uncommon,Armour,Octarius,Standard,23,0.6,6,0.09999999999999999
+263,Mesh Weave,Uncommon,Armour,Fall of Cadia,Mirror,35,0.7140000000000001,6,0.11900000000000001
+264,Mesh Weave,Uncommon,Armour,Octarius,Mirror,23,0.7140000000000001,6,0.11900000000000001
+265,Metal Decorative Skull,Rare,Health,Indomitus,Standard,71,0.33299999999999996,6,0.055499999999999994
+266,Metal Decorative Skull,Rare,Health,Octarius,Standard,36,0.33299999999999996,6,0.055499999999999994
+267,Metal Decorative Skull,Rare,Health,Indomitus,Mirror,35,0.4,6,0.06666666666666667
+268,Metal Decorative Skull,Rare,Health,Octarius,Mirror,52,0.4,6,0.06666666666666667
+269,Metal Decorative Skull,Rare,Health,Fall of Cadia,Elite,30,1.11,10,0.11100000000000002
+270,Metal Joints,Common,Armour,Fall of Cadia,Standard,26,0.75,6,0.125
+271,Metal Joints,Common,Armour,Octarius,Standard,6,0.75,6,0.125
+272,Metal Joints,Common,Armour,Octarius,Mirror,35,0.833,6,0.13883333333333334
+273,Minor Bionic Enhancement,Common,Health,Indomitus,Standard,49,0.75,6,0.125
+274,Minor Bionic Enhancement,Common,Health,Fall of Cadia,Standard,10,0.75,6,0.125
+275,Minor Bionic Enhancement,Common,Health,Octarius,Standard,62,0.75,6,0.125
+276,Minor Bionic Enhancement,Common,Health,Indomitus,Mirror,57,0.833,6,0.13883333333333334
+277,Minor Bionic Enhancement,Common,Health,Octarius,Mirror,11,0.833,6,0.13883333333333334
+278,Minor Bionic Enhancement,Common,Health,Indomitus,Elite,2,1.4,10,0.13999999999999999
+279,Mission Assignment,Common,Health,Fall of Cadia,Standard,52,0.75,6,0.125
+280,Mission Assignment,Common,Health,Octarius,Standard,13,0.75,6,0.125
+281,Mission Assignment,Common,Health,Octarius,Mirror,12,0.833,6,0.13883333333333334
+282,Mission Assignment,Common,Health,Fall of Cadia,Elite,33,1.4,10,0.13999999999999999
+283,Mission Objective,Uncommon,Health,Fall of Cadia,Standard,43,0.6,6,0.09999999999999999
+284,Mission Objective,Uncommon,Health,Octarius,Standard,25,0.6,6,0.09999999999999999
+285,Mission Objective,Uncommon,Health,Octarius,Mirror,47,0.7140000000000001,6,0.11900000000000001
+286,Mjod,Legendary,Health,Octarius,Mirror,71,0.17,6,0.028333333333333335
+287,Mjod,Legendary,Health,Octarius,Elite,39,0.4,10,0.04
+288,Mutation: Scaly Skin,Uncommon,Armour,Indomitus,Standard,66,0.6,6,0.09999999999999999
+289,Mutation: Scaly Skin,Uncommon,Armour,Fall of Cadia,Standard,39,0.6,6,0.09999999999999999
+290,Mutation: Scaly Skin,Uncommon,Armour,Indomitus,Mirror,40,0.7140000000000001,6,0.11900000000000001
+291,Mutation: Scaly Skin,Uncommon,Armour,Fall of Cadia,Mirror,38,0.7140000000000001,6,0.11900000000000001
+292,Mutation: Scaly Skin,Uncommon,Armour,Fall of Cadia,Elite,13,1.17,10,0.11699999999999999
+293,Mutation: Tough Skin,Common,Armour,Indomitus,Standard,64,0.75,6,0.125
+294,Mutation: Tough Skin,Common,Armour,Fall of Cadia,Standard,9,0.75,6,0.125
+295,Mutation: Tough Skin,Common,Armour,Indomitus,Mirror,42,0.833,6,0.13883333333333334
+296,Mutation: Tough Skin,Common,Armour,Fall of Cadia,Elite,3,1.4,10,0.13999999999999999
+297,Mutation: Warped Heart,Rare,Health,Octarius,Standard,49,0.33299999999999996,6,0.055499999999999994
+298,Mutation: Warped Heart,Rare,Health,Indomitus,Mirror,17,0.4,6,0.06666666666666667
+299,Mutation: Warped Heart,Rare,Health,Fall of Cadia,Mirror,46,0.4,6,0.06666666666666667
+300,Mutation: Warped Heart,Rare,Health,Fall of Cadia,Elite,7,1.11,10,0.11100000000000002
+301,Mutation: Warped Lungs,Uncommon,Health,Indomitus,Standard,65,0.6,6,0.09999999999999999
+302,Mutation: Warped Lungs,Uncommon,Health,Fall of Cadia,Standard,36,0.6,6,0.09999999999999999
+303,Mutation: Warped Lungs,Uncommon,Health,Indomitus,Mirror,41,0.7140000000000001,6,0.11900000000000001
+304,Mutation: Warped Lungs,Uncommon,Health,Fall of Cadia,Mirror,68,0.7140000000000001,6,0.11900000000000001
+305,Mutation: Warped Lungs,Uncommon,Health,Fall of Cadia,Elite,6,1.17,10,0.11699999999999999
+306,Mutation: Warped Muscles,Common,Health,Fall of Cadia,Standard,1,0.75,6,0.125
+307,Mutation: Warped Muscles,Common,Health,Indomitus,Mirror,3,0.833,6,0.13883333333333334
+308,Mutation: Warped Muscles,Common,Health,Fall of Cadia,Mirror,24,0.833,6,0.13883333333333334
+309,Mutation: Warped Muscles,Common,Health,Fall of Cadia,Elite,10,1.4,10,0.13999999999999999
+310,Nano Scarab Swarm,Common,Health,Indomitus,Standard,67,0.75,6,0.125
+311,Nano Scarab Swarm,Common,Health,Indomitus,Mirror,21,0.833,6,0.13883333333333334
+312,Nasty Spikes,Common,Damage,Fall of Cadia,Standard,2,0.75,6,0.125
+313,Nasty Spikes,Common,Damage,Octarius,Standard,4,0.75,6,0.125
+314,Nasty Spikes,Common,Damage,Fall of Cadia,Mirror,21,0.833,6,0.13883333333333334
+315,Nasty Spikes,Common,Damage,Fall of Cadia,Mirror,69,0.833,6,0.13883333333333334
+316,Nasty Spikes,Common,Damage,Fall of Cadia,Elite,9,1.4,10,0.13999999999999999
+317,Oath Seal,Uncommon,Armour,Indomitus,Standard,40,0.6,6,0.09999999999999999
+318,Oath Seal,Uncommon,Armour,Octarius,Standard,26,0.6,6,0.09999999999999999
+319,Oath Seal,Uncommon,Armour,Indomitus,Mirror,68,0.7140000000000001,6,0.11900000000000001
+320,Oath Seal,Uncommon,Armour,Octarius,Mirror,40,0.7140000000000001,6,0.11900000000000001
+321,Oath Seal,Uncommon,Armour,Indomitus,Elite,13,1.17,10,0.11699999999999999
+322,Pile of Salvage,Common,Armour,Indomitus,Standard,28,0.75,5,0.15
+323,Pile of Salvage,Common,Armour,Fall of Cadia,Standard,16,0.75,6,0.125
+324,Pile of Salvage,Common,Armour,Octarius,Standard,57,0.75,6,0.125
+325,Pile of Salvage,Common,Armour,Fall of Cadia,Mirror,9,0.833,6,0.13883333333333334
+326,Pile of Salvage,Common,Armour,Octarius,Mirror,18,0.833,6,0.13883333333333334
+327,Pile of Salvage,Common,Armour,Octarius,Elite,1,1.4,10,0.13999999999999999
+328,Plague Bell,Rare,Health,Fall of Cadia,Standard,68,0.33299999999999996,6,0.055499999999999994
+329,Plague Bell,Rare,Health,Octarius,Mirror,67,0.4,6,0.06666666666666667
+330,Plague Bell,Rare,Health,Fall of Cadia,Elite,20,1.11,10,0.11100000000000002
+331,Plasma Cell,Uncommon,Damage,Indomitus,Standard,42,0.6,6,0.09999999999999999
+332,Plasma Cell,Uncommon,Damage,Fall of Cadia,Standard,34,0.6,6,0.09999999999999999
+333,Plasma Cell,Uncommon,Damage,Octarius,Standard,55,0.6,6,0.09999999999999999
+334,Plasma Cell,Uncommon,Damage,Indomitus,Mirror,65,0.7140000000000001,6,0.11900000000000001
+335,Plasma Cell,Uncommon,Damage,Octarius,Mirror,36,0.7140000000000001,6,0.11900000000000001
+336,Plasma Cell,Uncommon,Damage,Octarius,Elite,14,1.17,10,0.11699999999999999
+337,Power Weapon Field Node,Epic,Damage,Fall of Cadia,Mirror,28,0.33299999999999996,6,0.055499999999999994
+338,Power Weapon Field Node,Epic,Damage,Octarius,Elite,31,0.67,10,0.067
+339,Psytronome,Rare,Damage,Octarius,Standard,52,0.33299999999999996,6,0.055499999999999994
+340,Psytronome,Rare,Damage,Indomitus,Mirror,32,0.4,6,0.06666666666666667
+341,Purity Seal,Common,Armour,Indomitus,Standard,19,0.75,5,0.15
+342,Purity Seal,Common,Armour,Fall of Cadia,Standard,46,0.75,6,0.125
+343,Purity Seal,Common,Armour,Octarius,Standard,66,0.75,6,0.125
+344,Purity Seal,Common,Armour,Fall of Cadia,Mirror,16,0.833,6,0.13883333333333334
+345,Purity Seal,Common,Armour,Octarius,Mirror,1,0.833,6,0.13883333333333334
+346,Purity Seal,Common,Armour,Indomitus,Elite,3,1.4,10,0.13999999999999999
+347,Purity Seal of the Primarch,Legendary,Armour,Fall of Cadia,Standard,74,0.125,6,0.020833333333333332
+348,Rebreather,Common,Armour,Octarius,Standard,17,0.75,6,0.125
+349,Rebreather,Common,Armour,Indomitus Mirror,,1,0.833,6,0.13883333333333334
+350,Rebreather,Common,Armour,Fall of Cadia,Mirror,22,0.833,6,0.13883333333333334
+351,Rebreather,Common,Armour,Octarius,Mirror,7,0.833,6,0.13883333333333334
+352,Reconstitution Protocols,Rare,Health,Indomitus,Standard,63,0.33299999999999996,6,0.055499999999999994
+353,Reconstitution Protocols,Rare,Health,Indomitus,Mirror,43,0.4,6,0.06666666666666667
+354,Reinforced Cables,Uncommon,Health,Fall of Cadia,Standard,40,0.6,6,0.09999999999999999
+355,Reinforced Cables,Uncommon,Health,Octarius,Standard,29,0.6,6,0.09999999999999999
+356,Reinforced Cables,Uncommon,Health,Indomitus,Mirror,7,0.7140000000000001,6,0.11900000000000001
+357,Reinforced Cables,Uncommon,Health,Fall of Cadia,Mirror,57,0.7140000000000001,6,0.11900000000000001
+358,Reinforced Cables,Uncommon,Health,Octarius,Elite,12,1.17,10,0.11699999999999999
+359,Reinforced Scale-Plates,Uncommon,Armour,Octarius,Standard,12,0.6,6,0.09999999999999999
+360,Reinforced Scale-Plates,Uncommon,Armour,Indomitus,Mirror,8,0.7140000000000001,6,0.11900000000000001
+361,Reinforced Scale-Plates,Uncommon,Armour,Fall of Cadia,Mirror,58,0.7140000000000001,6,0.11900000000000001
+362,Reinforced Scale-Plates,Uncommon,Armour,Octarius,Mirror,25,0.7140000000000001,6,0.11900000000000001
+363,Reinforced Scale-Plates,Uncommon,Armour,Octarius,Elite,13,1.17,10,0.11699999999999999
+364,Reliquary of Protection,Uncommon,Health,Indomitus,Standard,58,0.6,6,0.09999999999999999
+365,Reliquary of Protection,Uncommon,Health,Octarius,Standard,21,0.6,6,0.09999999999999999
+366,Reliquary of Protection,Uncommon,Health,Indomitus,Mirror,48,0.7140000000000001,6,0.11900000000000001
+367,Reliquary of Protection,Uncommon,Health,Octarius,Mirror,44,0.7140000000000001,6,0.11900000000000001
+368,Reliquary of Vengeance,Uncommon,Damage,Indomitus,Standard,41,0.6,6,0.09999999999999999
+369,Reliquary of Vengeance,Uncommon,Damage,Indomitus,Mirror,67,0.7140000000000001,6,0.11900000000000001
+370,Reliquary of Vengeance,Uncommon,Damage,Indomitus,Elite,14,1.17,10,0.11699999999999999
+371,Repair-Kit,Rare,Health,Fall of Cadia,Standard,66,0.33299999999999996,6,0.055499999999999994
+372,Repair-Kit,Rare,Health,Indomitus,Mirror,34,0.4,6,0.06666666666666667
+373,Repair-Kit,Rare,Health,Fall of Cadia,Mirror,37,0.4,6,0.06666666666666667
+374,Repair-Kit,Rare,Health,Indomitus,Elite,15,1.11,10,0.11100000000000002
+375,Righteous Candle,Rare,Health,Octarius,Standard,47,0.33299999999999996,6,0.055499999999999994
+376,Righteous Candle,Rare,Health,Octarius,Mirror,63,0.4,6,0.06666666666666667
+377,Righteous Candle,Rare,Health,Octarius,Elite,26,1.11,10,0.11100000000000002
+378,Ropes and Chains,Common,Health,Fall of Cadia,Standard,5,0.75,6,0.125
+379,Ropes and Chains,Common,Health,Octarius,Standard,1,0.75,6,0.125
+380,Ropes and Chains,Common,Health,Indomitus,Mirror,29,0.833,6,0.13883333333333334
+381,Ropes and Chains,Common,Health,Octarius,Mirror,13,0.833,6,0.13883333333333334
+382,Rose of Martyrs,Rare,Health,Octarius,Standard,48,0.33299999999999996,6,0.055499999999999994
+383,Rose of Martyrs,Rare,Health,Indomitus,Mirror,73,0.4,6,0.06666666666666667
+384,Rose of Martyrs,Rare,Health,Indomitus,Elite,19,1.11,10,0.11100000000000002
+385,Round of Ammo,Common,Damage,Indomitus,Standard,38,0.75,6,0.125
+386,Round of Ammo,Common,Damage,Fall of Cadia,Standard,20,0.75,6,0.125
+387,Round of Ammo,Common,Damage,Fall of Cadia,Mirror,1,0.833,6,0.13883333333333334
+388,Round of Ammo,Common,Damage,Octarius,Mirror,26,0.833,6,0.13883333333333334
+389,Round of Ammo,Common,Damage,Indomitus,Elite,11,1.4,10,0.13999999999999999
+390,Runes of Fate,Legendary,Health,Octarius,Mirror,74,0.16699999999999998,6,0.02783333333333333
+391,Runes of Fate,Legendary,Health,Octarius,Elite,29,0.4,10,0.04
+392,Satchel,Uncommon,Health,Fall of Cadia,Standard,4,0.6,6,0.09999999999999999
+393,Satchel,Uncommon,Health,Octarius,Standard,18,0.6,6,0.09999999999999999
+394,Satchel,Uncommon,Health,Octarius,Mirror,42,0.7140000000000001,6,0.11900000000000001
+395,Satchel,Uncommon,Health,Octarius,Elite,35,1.17,10,0.11699999999999999
+396,Scrolls,Common,Health,Fall of Cadia,Standard,25,0.75,6,0.125
+397,Scrolls,Common,Health,Octarius,Standard,16,0.75,6,0.125
+398,Scrolls,Common,Health,Fall of Cadia,Mirror,13,0.833,6,0.13883333333333334
+399,Scrolls,Common,Health,Fall of Cadia,Elite,2,1.4,10,0.13999999999999999
+400,Sensor Suite,Rare,Damage,Indomitus,Mirror,39,0.4,6,0.06666666666666667
+401,Sensor Suite,Rare,Damage,Indomitus,Elite,18,1.11,10,0.11100000000000002
+402,Sigil of Decay,Rare,Damage,Octarius,Standard,38,0.33299999999999996,6,0.055499999999999994
+403,Sigil of Decay,Rare,Damage,Fall of Cadia,Mirror,64,0.4,6,0.06666666666666667
+404,Sigil of Decay,Rare,Damage,Fall of Cadia,Elite,18,1.11,10,0.11100000000000002
+405,Single Power Pack,Common,Damage,Indomitus,Standard,55,0.75,6,0.125
+406,Single Power Pack,Common,Damage,Octarius,Standard,68,0.75,6,0.125
+407,Single Power Pack,Common,Damage,Indomitus,Mirror,51,0.833,6,0.13883333333333334
+408,Single Power Pack,Common,Damage,Octarius,Mirror,9,0.833,6,0.13883333333333334
+409,Single Power Pack,Common,Damage,Fall of Cadia,Elite,5,1.4,10,0.13999999999999999
+410,Sophisticated Material,Common,Armour,Indomitus,Standard,57,0.75,6,0.125
+411,Sophisticated Material,Common,Armour,Indomitus,Mirror,49,0.833,6,0.13883333333333334
+412,Sophisticated Material,Common,Armour,Indomitus,Elite,33,1.4,10,0.13999999999999999
+413,Special Issue Ammo,Epic,Damage,Octarius,Standard,40,0.25,6,0.041666666666666664
+414,Special Issue Ammo,Epic,Damage,Indomitus,Mirror,28,0.33299999999999996,6,0.055499999999999994
+415,Special Issue Ammo,Epic,Damage,Indomitus,Elite,37,0.67,10,0.067
+416,Standard-Issue Tourniquet,Common,Health,Indomitus,Standard,39,0.75,6,0.125
+417,Standard-Issue Tourniquet,Common,Health,Fall of Cadia,Standard,12,0.75,6,0.125
+418,Standard-Issue Tourniquet,Common,Health,Octarius,Standard,59,0.75,6,0.125
+419,Standard-Issue Tourniquet,Common,Health,Indomitus,Mirror,69,0.833,6,0.13883333333333334
+420,Standard-Issue Tourniquet,Common,Health,Octarius,Mirror,5,0.833,6,0.13883333333333334
+421,Standard-Issue Tourniquet,Common,Health,Octarius,Elite,10,1.4,10,0.13999999999999999
+422,Stimm Injector,Rare,Health,Indomitus,Mirror,38,0.4,6,0.06666666666666667
+423,Stimm Injector,Rare,Health,Indomitus,Elite,20,1.11,10,0.11100000000000002
+425,Tank of Promethium,Rare,Damage,Indomitus,Standard,62,0.33299999999999996,6,0.055499999999999994
+426,Tank of Promethium,Rare,Damage,Indomitus,Mirror,44,0.4,6,0.06666666666666667
+427,Tank of Promethium,Rare,Damage,Octarius,Mirror,48,0.4,6,0.06666666666666667
+428,Targeting Link,Common,Damage,Indomitus,Standard,72,0.75,6,0.125
+429,Targeting Link,Common,Damage,Fall of Cadia,Standard,21,0.75,6,0.125
+430,Targeting Link,Common,Damage,Fall of Cadia,Mirror,20,0.833,6,0.13883333333333334
+431,Targeting Link,Common,Damage,Octarius,Mirror,65,0.833,6,0.13883333333333334
+432,Targeting Link,Common,Damage,Octarius,Elite,9,1.4,10,0.13999999999999999
+433,Terminator Honours,Epic,Health,Octarius,Standard,42,0.25,6,0.041666666666666664
+434,Terminator Honours,Epic,Health,Indomitus,Mirror,31,0.33299999999999996,6,0.055499999999999994
+435,Terminator Honours,Epic,Health,Fall of Cadia,Mirror,31,0.33299999999999996,6,0.055499999999999994
+436,Terminator Honours,Epic,Health,Indomitus,Elite,31,0.67,10,0.067
+437,The Gold Phoenix,Uncommon,Health,Indomitus,Standard,23,0.6,5,0.12
+438,The Gold Phoenix,Uncommon,Health,Octarius,Standard,28,0.6,6,0.09999999999999999
+439,The Gold Phoenix,Uncommon,Health,Fall of Cadia,Mirror,12,0.7140000000000001,6,0.11900000000000001
+440,The Gold Phoenix,Uncommon,Health,Octarius,Mirror,51,0.7140000000000001,6,0.11900000000000001
+441,The Gold Phoenix,Uncommon,Health,Indomitus,Elite,6,1.17,10,0.11699999999999999
+442,The Iron Phoenix,Common,Health,Indomitus,Standard,16,0.75,5,0.15
+443,The Iron Phoenix,Common,Health,Fall of Cadia,Mirror,18,0.833,6,0.13883333333333334
+444,The Phoenix Ascendant,Rare,Health,Fall of Cadia,Standard,64,0.33299999999999996,6,0.055499999999999994
+445,The Phoenix Ascendant,Rare,Health,Indomitus,Mirror,20,0.4,6,0.06666666666666667
+446,The Phoenix Ascendant,Rare,Health,Fall of Cadia,Mirror,49,0.4,6,0.06666666666666667
+447,The Phoenix Ascendant,Rare,Health,Octarius,Mirror,37,0.4,6,0.06666666666666667
+448,The Phoenix Ascendant,Rare,Health,Indomitus,Elite,7,1.11,10,0.11100000000000002
+449,The Silver Aquila,Common,Health,Fall of Cadia,Standard,49,0.75,6,0.125
+450,The Silver Aquila,Common,Health,Octarius,Standard,63,0.75,6,0.125
+451,The Silver Aquila,Common,Health,Indomitus,Mirror,66,0.833,6,0.13883333333333334
+452,The Silver Eagle with Swords,Uncommon,Health,Indomitus,Standard,69,0.6,6,0.09999999999999999
+453,The Silver Eagle with Swords,Uncommon,Health,Indomitus,Mirror,37,0.7140000000000001,6,0.11900000000000001
+454,The Silver Scope,Uncommon,Health,Indomitus,Standard,34,0.6,6,0.09999999999999999
+455,The Silver Scope,Uncommon,Health,Octarius,Standard,27,0.6,6,0.09999999999999999
+456,The Silver Scope,Uncommon,Health,Fall of Cadia,Mirror,5,0.7140000000000001,6,0.11900000000000001
+457,Thick Skin,Common,Armour,Fall of Cadia,Standard,48,0.75,6,0.125
+458,Thick Skin,Common,Armour,Octarius,Standard,5,0.75,6,0.125
+459,Thick Skin,Common,Armour,Octarius,Elite,5,1.4,10,0.13999999999999999
+460,Transdimensional Sanctum,Legendary,Armour,Fall of Cadia,Mirror,39,0.16699999999999998,6,0.02783333333333333
+461,Unnatural Vapour Dispenser,Rare,Armour,Fall of Cadia,Standard,59,0.33299999999999996,6,0.055499999999999994
+462,Unnatural Vapour Dispenser,Rare,Armour,Fall of Cadia,Mirror,53,0.4,6,0.06666666666666667
+463,Unnatural Vapour Dispenser,Rare,Armour,Fall of Cadia,Elite,22,1.11,10,0.11100000000000002
+464,Viridian Energy Pack,Common,Damage,Indomitus,Standard,56,0.75,6,0.125
+465,Viridian Energy Pack,Common,Damage,Indomitus,Mirror,50,0.833,6,0.13883333333333334
+466,Viridian Energy Tesseract,Rare,Damage,Indomitus,Elite,26,0.4,10,0.04
+467,Viridian Energy Tesseract,Rare,Damage,Indomitus,Mirror,22,0.4,6,0.06666666666666667
+468,Viridian Energy Tesseract,Rare,Damage,Fall of Cadia,Mirror,51,1.11,6,0.18500000000000003
+469,Vox-Caster,Common,Damage,Fall of Cadia,Standard,8,0.75,6,0.125
+470,Vox-Caster,Common,Damage,Octarius,Standard,14,0.75,6,0.125
+471,Vox-Caster,Common,Damage,Octarius,Mirror,21,0.833,6,0.13883333333333334
+472,Warp Locus,Epic,Damage,Fall of Cadia,Mirror,25,0.33299999999999996,6,0.055499999999999994
+473,Warp Locus,Epic,Damage,Fall of Cadia,Elite,31,0.67,10,0.067
+474,Waystone,Rare,Health,Octarius,Standard,44,0.33299999999999996,6,0.055499999999999994
+475,Waystone,Rare,Health,Fall of Cadia,Mirror,33,0.4,6,0.06666666666666667
+476,Weapon Anointment Oils,Common,Damage,Indomitus,Standard,52,0.75,6,0.125
+477,Weapon Anointment Oils,Common,Damage,Fall of Cadia,Standard,44,0.75,6,0.125
+478,Weapon Anointment Oils,Common,Damage,Octarius,Standard,65,0.75,6,0.125
+479,Weapon Anointment Oils,Common,Damage,Indomitus,Mirror,54,0.833,6,0.13883333333333334
+480,Weapon Anointment Oils,Common,Damage,Octarius,Mirror,10,0.833,6,0.13883333333333334
+481,Weapon Anointment Oils,Common,Damage,Indomitus,Elite,9,1.4,10,0.13999999999999999
+482,Weapon Parts,Common,Damage,Fall of Cadia,Standard,13,0.75,6,0.125
+483,Weapon Parts,Common,Damage,Octarius,Standard,8,0.75,6,0.125
+484,Weapon Parts,Common,Damage,Indomitus Mirror,,2,0.833,6,0.13883333333333334
+485,Weapon Parts,Common,Damage,Fall of Cadia,Mirror,23,0.833,6,0.13883333333333334
+486,Weapon Parts,Common,Damage,Octarius,Mirror,3,0.833,6,0.13883333333333334
+487,Weapon Parts,Common,Damage,Octarius,Elite,33,1.4,10,0.13999999999999999
+488,Wires,Common,Health,Indomitus,Standard,44,0.75,6,0.125
+489,Wires,Common,Health,Fall of Cadia,Standard,3,0.75,6,0.125
+490,Wires,Common,Health,Octarius,Standard,2,0.75,6,0.125
+491,Wires,Common,Health,Indomitus,Mirror,4,0.833,6,0.13883333333333334
+492,Wires,Common,Health,Octarius,Mirror,8,0.833,6,0.13883333333333334
+493,Wolf Tail Talisman,Rare,Health,Octarius,Mirror,54,0.4,6,0.06666666666666667
+494,Wolf Tail Talisman,Rare,Health,Octarius,Elite,20,1.11,10,0.11100000000000002
+495,Wolf Tooth Necklace,Rare,Damage,Octarius,Mirror,64,0.4,6,0.06666666666666667
+496,Wolf Tooth Necklace,Rare,Damage,Octarius,Elite,18,1.11,10,0.11100000000000002
+497,Wraithbone Plate,Rare,Armour,Fall of Cadia,Standard,71,0.33299999999999996,6,0.055499999999999994
+498,Wraithbone Plate,Rare,Armour,Fall of Cadia,Mirror,48,0.4,6,0.06666666666666667
+499,Writings,Uncommon,Health,Fall of Cadia,Standard,42,0.6,6,0.09999999999999999
+500,Writings,Uncommon,Health,Octarius,Standard,24,0.6,6,0.09999999999999999
+501,Writings,Uncommon,Health,Octarius,Mirror,33,0.7140000000000001,6,0.11900000000000001
+502,Writings,Uncommon,Health,Indomitus,Elite,12,1.17,10,0.11699999999999999
+503,Zeidos Ribbon,Rare,Health,Fall of Cadia,Standard,67,0.33299999999999996,6,0.055499999999999994
+504,Zeidos Ribbon,Rare,Health,Indomitus,Mirror,16,0.4,6,0.06666666666666667
+505,Zeidos Ribbon,Rare,Health,Fall of Cadia,Mirror,43,0.4,6,0.06666666666666667
+506,Zeidos Ribbon,Rare,Health,Fall of Cadia,Elite,26,1.11,10,0.11100000000000002
