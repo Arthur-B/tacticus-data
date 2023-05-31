@@ -1,0 +1,328 @@
+,Item,Rarity,Stat,Craftable,Item 1,Quantity 1,Item 2,Quantity 2,Item 3,Quantity 3,Average energy cost
+0,Adamantium Filaments,Common,Health,False,,,,,,,7.142857142857143
+1,Adamantium Ore,Common,Armour,False,,,,,,,7.142857142857143
+2,Armor Trim,Common,Armour,False,,,,,,,7.142857142857143
+3,Auspex,Common,Damage,False,,,,,,,7.202881152460985
+4,Ballistics Data,Common,Damage,False,,,,,,,7.142857142857143
+5,Basic Auxiliary Core,Common,Damage,False,,,,,,,6.666666666666667
+6,Can of Promethium,Common,Damage,False,,,,,,,7.202881152460985
+7,Canister of Promethium,Common,Damage,False,,,,,,,7.142857142857143
+8,Chip Damage,Common,Health,False,,,,,,,7.142857142857143
+9,Field Ration,Common,Health,False,,,,,,,7.202881152460985
+10,Fine Purity Seal,Common,Armour,False,,,,,,,7.142857142857143
+11,Frag Grenade,Common,Damage,False,,,,,,,6.666666666666667
+12,Healing Ointment,Common,Health,False,,,,,,,7.202881152460985
+13,Lesser Reliquary of Protection,Common,Health,False,,,,,,,7.202881152460985
+14,Lesser Reliquary of Vengeance,Common,Damage,False,,,,,,,7.202881152460985
+15,Metal Joints,Common,Armour,False,,,,,,,7.202881152460985
+16,Minor Bionic Enhancement,Common,Health,False,,,,,,,7.142857142857143
+17,Mission Assignment,Common,Health,False,,,,,,,7.142857142857143
+18,Mutation: Tough Skin,Common,Armour,False,,,,,,,7.142857142857143
+19,Mutation: Warped Muscles,Common,Health,False,,,,,,,7.142857142857143
+20,Nano Scarab Swarm,Common,Health,False,,,,,,,7.202881152460985
+21,Nasty Spikes,Common,Damage,False,,,,,,,7.142857142857143
+22,Pile of Salvage,Common,Armour,False,,,,,,,6.666666666666667
+23,Purity Seal,Common,Armour,False,,,,,,,6.666666666666667
+24,Rebreather,Common,Armour,False,,,,,,,7.202881152460985
+25,Ropes and Chains,Common,Health,False,,,,,,,7.202881152460985
+26,Round of Ammo,Common,Damage,False,,,,,,,7.142857142857143
+27,Scrolls,Common,Health,False,,,,,,,7.142857142857143
+28,Single Power Pack,Common,Damage,False,,,,,,,7.142857142857143
+29,Sophisticated Material,Common,Armour,False,,,,,,,7.142857142857143
+30,Standard-Issue Tourniquet,Common,Health,False,,,,,,,7.142857142857143
+31,Targeting Link,Common,Damage,False,,,,,,,7.142857142857143
+32,The Iron Phoenix,Common,Health,False,,,,,,,6.666666666666667
+33,The Silver Aquila,Common,Health,False,,,,,,,7.202881152460985
+34,Thick Skin,Common,Armour,False,,,,,,,7.142857142857143
+35,Viridian Energy Pack,Common,Damage,False,,,,,,,7.202881152460985
+36,Vox-Caster,Common,Damage,False,,,,,,,7.202881152460985
+37,Weapon Anointment Oils,Common,Damage,False,,,,,,,7.142857142857143
+38,Weapon Parts,Common,Damage,False,,,,,,,7.142857142857143
+39,Wires,Common,Health,False,,,,,,,7.202881152460985
+40,Adamantium Blades,Uncommon,Damage,True,Weapon Parts,2.0,Adamantium Ore,2.0,Ropes and Chains,2.0,28.571428571428573
+41,Adamantium Lump,Uncommon,Armour,True,Adamantium Ore,6.0,,,,,42.85714285714286
+42,Adamantium Nano Scarab Swarm,Uncommon,Health,True,Adamantium Filaments,6.0,,,,,42.85714285714286
+43,Advanced Filaments,Uncommon,Health,False,,,,,,,8.403361344537814
+44,Advanced Rebreather,Uncommon,Armour,False,,,,,,,8.403361344537814
+45,Air Purificator,Uncommon,Armour,False,,,,,,,8.403361344537814
+46,Artificial Vertebrae,Uncommon,Health,False,,,,,,,8.403361344537814
+47,Attack Vector Data-Slate,Uncommon,Damage,False,,,,,,,8.333333333333334
+48,Barrel of Promethium,Uncommon,Damage,False,,,,,,,8.403361344537814
+49,Belt of Frag Grenades,Uncommon,Damage,True,Frag Grenade,6.0,,,,,40.0
+50,Bionic Enhancement,Uncommon,Health,True,Minor Bionic Enhancement,6.0,,,,,42.85714285714286
+51,Blessed Tasset Plate,Uncommon,Armour,False,,,,,,,8.403361344537814
+52,Blessed Weapon Oils,Uncommon,Damage,True,Weapon Anointment Oils,6.0,Canister of Promethium,3.0,,,64.28571428571429
+53,Box of Salvage,Uncommon,Armour,False,,,,,,,8.403361344537814
+54,Ceramite Lump,Uncommon,Armour,False,,,,,,,8.333333333333334
+55,Cloak,Uncommon,Armour,False,,,,,,,8.403361344537814
+56,Combat Stimms,Uncommon,Damage,False,,,,,,,8.403361344537814
+57,Divinator Class Auspex,Uncommon,Damage,False,,,,,,,8.403361344537814
+58,Enriched Rations,Uncommon,Health,False,,,,,,,8.333333333333334
+59,Fine Auxiliary Core,Uncommon,Damage,True,Basic Auxiliary Core,6.0,,,,,40.0
+60,Fine Micro-Generator,Uncommon,Damage,False,,,,,,,8.403361344537814
+61,First Aid Kit,Uncommon,Health,True,Standard-Issue Tourniquet,3.0,Healing Ointment,3.0,,,43.037214885954384
+62,Helmet Trophy,Uncommon,Health,False,,,,,,,8.403361344537814
+63,Locator Beacon,Uncommon,Damage,False,,,,,,,8.403361344537814
+64,Magazine,Uncommon,Damage,True,Round of Ammo,6.0,,,,,42.85714285714286
+65,Marksman's Honour,Uncommon,Damage,False,,,,,,,8.403361344537814
+66,Mesh Weave,Uncommon,Armour,False,,,,,,,8.403361344537814
+67,Mission Objective,Uncommon,Health,False,,,,,,,8.403361344537814
+68,Mutation: Scaly Skin,Uncommon,Armour,False,,,,,,,8.403361344537814
+69,Mutation: Warped Lungs,Uncommon,Health,False,,,,,,,8.403361344537814
+70,Oath Seal,Uncommon,Armour,False,,,,,,,8.403361344537814
+71,Plasma Cell,Uncommon,Damage,False,,,,,,,8.403361344537814
+72,Power Pack Bundle,Uncommon,Damage,True,Single Power Pack,6.0,,,,,42.85714285714286
+73,Razorsharp Spikes,Uncommon,Damage,True,Nasty Spikes,6.0,Chip Damage,3.0,,,64.28571428571429
+74,Reinforced Cables,Uncommon,Health,False,,,,,,,8.403361344537814
+75,Reinforced Scale-Plates,Uncommon,Armour,False,,,,,,,8.403361344537814
+76,Reliquary of Protection,Uncommon,Health,False,,,,,,,8.403361344537814
+77,Reliquary of Vengeance,Uncommon,Damage,False,,,,,,,8.403361344537814
+78,Satchel,Uncommon,Health,False,,,,,,,8.403361344537814
+79,Sophisticated Material Ingot,Uncommon,Armour,True,Sophisticated Material,6.0,,,,,42.85714285714286
+80,Targeting Matrix,Uncommon,Damage,True,Targeting Link,6.0,Ballistics Data,3.0,,,64.28571428571429
+81,The Gold Phoenix,Uncommon,Health,False,,,,,,,8.333333333333334
+82,The Silver Eagle with Swords,Uncommon,Health,False,,,,,,,8.403361344537814
+83,The Silver Scope,Uncommon,Health,False,,,,,,,8.403361344537814
+84,Viridian Energy Bundle,Uncommon,Damage,True,Viridian Energy Pack,6.0,,,,,43.21728691476591
+85,Writings,Uncommon,Health,False,,,,,,,8.403361344537814
+86,Adamantium Bar,Rare,Armour,True,,,,,,,0.0
+87,Advanced Bionics,Rare,Health,True,,,,,,,0.0
+88,Advanced Combat Stimms,Rare,Damage,True,,,,,,,0.0
+89,Amaranthite Nano Scarab Swarm,Rare,Health,True,,,,,,,0.0
+90,Ancient Runes,Rare,Health,False,,,,,,,9.00900900900901
+91,'Ard Plate,Rare,Armour,False,,,,,,,9.00900900900901
+92,Artificer Tasset Plate,Rare,Armour,False,,,,,,,9.00900900900901
+93,Bad Moon Teef,Rare,Health,False,,,,,,,9.00900900900901
+94,Battle Plan,Rare,Health,True,,,,,,,0.0
+95,Battle Scar,Rare,Health,False,,,,,,,9.00900900900901
+96,Bionic Eye,Rare,Damage,False,,,,,,,9.00900900900901
+97,Bladesman's Honour,Rare,Damage,False,,,,,,,15.0
+98,Blasphemous Armor Trim,Rare,Armour,False,,,,,,,9.00900900900901
+99,Blessed Corset Armor,Rare,Armour,False,,,,,,,9.00900900900901
+100,Blessed Purity Seal,Rare,Armour,True,,,,,,,0.0
+101,Blessed Tabbard,Rare,Armour,False,,,,,,,9.00900900900901
+102,Box of Ammo,Rare,Damage,True,,,,,,,0.0
+103,Box of Rations,Rare,Health,True,,,,,,,0.0
+104,Ceramite Bar,Rare,Armour,True,,,,,,,0.0
+105,Chain of Zeal,Rare,Damage,False,,,,,,,9.00900900900901
+106,Chapter Pendant,Rare,Damage,False,,,,,,,
+107,Classified Data-Slate,Rare,Damage,False,,,,,,,9.00900900900901
+108,Crate of Salvage,Rare,Armour,False,,,,,,,9.00900900900901
+109,Dark Hood,Rare,Armour,False,,,,,,,
+110,Digital Weapons,Rare,Damage,True,,,,,,,0.0
+111,Drone Controller,Rare,Armour,False,,,,,,,9.00900900900901
+112,Electromantic Cable Bundle,Rare,Health,True,,,,,,,0.0
+113,Entrenching Tool,Rare,Damage,False,,,,,,,9.00900900900901
+114,Eye of Horus,Rare,Health,False,,,,,,,9.00900900900901
+115,Fine Cloak,Rare,Armour,True,,,,,,,0.0
+116,Flak Plates,Rare,Armour,False,,,,,,,9.00900900900901
+117,Grand Skull Trophy,Rare,Health,True,,,,,,,0.0
+118,High-Capacity Power Pack,Rare,Damage,True,,,,,,,0.0
+119,Hymn of Martyrs,Rare,Damage,False,,,,,,,9.00900900900901
+120,Icon of Vengeance,Rare,Damage,False,,,,,,,9.00900900900901
+121,Impressive Armor Trim,Rare,Armour,True,,,,,,,0.0
+122,Iron Jaw,Rare,Damage,False,,,,,,,9.00900900900901
+123,Key of Ignorance,Rare,Health,False,,,,,,,
+124,Kill Count,Rare,Health,False,,,,,,,9.00900900900901
+125,Krak Grenade,Rare,Damage,False,,,,,,,9.00900900900901
+126,Medical Supply Crate,Rare,Health,True,,,,,,,0.0
+127,Mesh Weave Garment,Rare,Armour,True,,,,,,,0.0
+128,Metal Decorative Skull,Rare,Health,False,,,,,,,9.00900900900901
+129,Murderous Spikes,Rare,Damage,True,,,,,,,0.0
+130,Mutation: Daemonic Horns,Rare,Damage,True,,,,,,,0.0
+131,Mutation: Warped Heart,Rare,Health,False,,,,,,,9.00900900900901
+132,Mutation: Warped Skin,Rare,Armour,True,,,,,,,0.0
+133,Plague Bell,Rare,Health,False,,,,,,,9.00900900900901
+134,Plasma Cell Bundle,Rare,Damage,True,,,,,,,0.0
+135,Powerful Auxiliary Core,Rare,Damage,True,,,,,,,0.0
+136,Powerful Micro-Generator,Rare,Damage,True,,,,,,,0.0
+137,Prey-Sight,Rare,Damage,True,,,,,,,0.0
+138,Psytronome,Rare,Damage,False,,,,,,,15.0
+139,Ratiocination Targeting,Rare,Damage,True,,,,,,,0.0
+140,Reconstitution Protocols,Rare,Health,False,,,,,,,15.0
+141,Repair-Kit,Rare,Health,False,,,,,,,9.00900900900901
+142,Righteous Candle,Rare,Health,False,,,,,,,9.00900900900901
+143,Rose of Martyrs,Rare,Health,False,,,,,,,9.00900900900901
+144,Sanctified Reliquary of Protection,Rare,Health,True,,,,,,,0.0
+145,Sanctified Weapon Oils,Rare,Damage,True,,,,,,,0.0
+146,Scale-Plate Strand,Rare,Armour,True,,,,,,,0.0
+147,Sensor Suite,Rare,Damage,False,,,,,,,9.00900900900901
+148,Sigil of Decay,Rare,Damage,False,,,,,,,9.00900900900901
+149,Sophisticated Material Bar,Rare,Armour,True,,,,,,,0.0
+150,Stimm Injector,Rare,Health,False,,,,,,,9.00900900900901
+151,Supernatural Sight,Rare,Damage,True,,,,,,,0.0
+152,Tank of Promethium,Rare,Damage,False,,,,,,,15.0
+153,The Phoenix Ascendant,Rare,Health,False,,,,,,,9.00900900900901
+154,Unnatural Vapour Dispenser,Rare,Armour,False,,,,,,,9.00900900900901
+155,Viridian Energy Tesseract,Rare,Damage,False,,,,,,,5.405405405405405
+156,Waystone,Rare,Health,False,,,,,,,15.0
+157,Wraithbone Plate,Rare,Armour,False,,,,,,,15.0
+158,Zeidos Ribbon,Rare,Health,False,,,,,,,9.00900900900901
+159,Adamantium Sheet,Epic,Armour,True,,,,,,,0.0
+160,Advanced Drone Controller,Epic,Armour,True,,,,,,,0.0
+161,Advanced Mesh Weave Garment,Epic,Armour,True,,,,,,,0.0
+162,Advanced Sensor Suite,Epic,Damage,True,,,,,,,0.0
+163,Advanced Stimm Injector,Epic,Health,True,,,,,,,0.0
+164,Ancient Tasset Plate,Epic,Armour,True,,,,,,,0.0
+165,Anointed Auxiliary Core,Epic,Damage,True,,,,,,,0.0
+166,Anointed Micro-Generator,Epic,Damage,True,,,,,,,0.0
+167,Belt of Krak Grenades,Epic,Damage,True,,,,,,,0.0
+168,Bionic Neural Pathways,Epic,Damage,False,,,,,,,14.925373134328359
+169,Blessed Promethium Canister,Epic,Damage,False,,,,,,,18.01801801801802
+170,Bolts of Judgement,Epic,Damage,True,,,,,,,0.0
+171,Brutal Iron Jaw,Epic,Damage,True,,,,,,,0.0
+172,Calibanite Hood,Epic,Armour,True,,,,,,,0.0
+173,Ceramite Sheet,Epic,Armour,True,,,,,,,0.0
+174,Chain of Righteous Zeal,Epic,Damage,True,,,,,,,0.0
+175,Crusader's Tabbard,Epic,Armour,True,,,,,,,0.0
+176,Daemonic Armor Trim,Epic,Armour,True,,,,,,,0.0
+177,Death Bell,Epic,Health,True,,,,,,,0.0
+178,Death Shroud,Epic,Armour,True,,,,,,,0.0
+179,Decorated Cloak,Epic,Armour,True,,,,,,,0.0
+180,Ded 'Ard Plate,Epic,Armour,True,,,,,,,0.0
+181,Epaulettes,Epic,Health,True,,,,,,,0.0
+182,Exospine,Epic,Health,True,,,,,,,0.0
+183,Exquisite Medical Supplies,Epic,Health,True,,,,,,,0.0
+184,Filligrane Psytronome,Epic,Damage,True,,,,,,,0.0
+185,Filligrane Wraithbone Plate,Epic,Armour,True,,,,,,,0.0
+186,Golden Ornamental Skull,Epic,Health,False,,,,,,,14.925373134328359
+187,Grand Helmet Trophy,Epic,Health,True,,,,,,,0.0
+188,Grand Purity Seal,Epic,Armour,True,,,,,,,0.0
+189,Greater Reliquary of Vengeance,Epic,Damage,False,,,,,,,14.925373134328359
+190,Greater Reliquary of Protection,Epic,Health,True,,,,,,,0.0
+191,High-Grade Flak Plates,Epic,Armour,True,,,,,,,0.0
+192,Hymn of Sacrifice,Epic,Damage,True,,,,,,,0.0
+193,Hypermaterial Shifter,Epic,Armour,False,,,,,,,18.01801801801802
+194,Ice Troll Hide,Epic,Armour,True,,,,,,,0.0
+195,Icon of Daemonic Vengeance,Epic,Damage,True,,,,,,,0.0
+196,Key of Knowledge,Epic,Health,True,,,,,,,0.0
+197,Lights of Purgation,Epic,Health,True,,,,,,,0.0
+198,Macharian Cross,Epic,Health,True,,,,,,,0.0
+199,Mars-Pattern Bionics,Epic,Health,True,,,,,,,0.0
+200,Mutation: Metallic Skin,Epic,Armour,True,,,,,,,0.0
+201,Mutation: Regenerative Blood,Epic,Health,True,,,,,,,0.0
+202,Necrodermis Nano Scarab Swarm,Epic,Health,True,,,,,,,0.0
+203,Nob Teef,Epic,Health,True,,,,,,,0.0
+204,Ominous Xenos Glyphs,Epic,Health,True,,,,,,,0.0
+205,Plasma Cell Crate,Epic,Damage,True,,,,,,,0.0
+206,Power Weapon Field Node,Epic,Damage,False,,,,,,,14.925373134328359
+207,Refined Combat Stimms,Epic,Damage,True,,,,,,,0.0
+208,Resurrection Protocols,Epic,Health,True,,,,,,,0.0
+209,Roses of Sacrifice,Epic,Health,True,,,,,,,0.0
+210,Royal Phylactery,Epic,Health,True,,,,,,,0.0
+211,Runic Talisman,Epic,Health,True,,,,,,,0.0
+212,Sanctified Corset Armor,Epic,Armour,True,,,,,,,0.0
+213,Scale-Plate Mantle,Epic,Armour,True,,,,,,,0.0
+214,Sigil of Inevitable Decay,Epic,Damage,True,,,,,,,0.0
+215,Sophisticated Material Sheet,Epic,Armour,True,,,,,,,0.0
+216,Special Issue Ammo,Epic,Damage,False,,,,,,,14.925373134328359
+217,Spirit Stone,Epic,Health,True,,,,,,,0.0
+218,Terminator Honours,Epic,Health,False,,,,,,,14.925373134328359
+219,Thunderwolf Tooth Necklace,Epic,Damage,True,,,,,,,0.0
+220,Veteran's Entrenching Tool,Epic,Damage,True,,,,,,,0.0
+221,Warp Locus,Epic,Damage,False,,,,,,,14.925373134328359
+222,Warp Touched Eye of Horus,Epic,Health,True,,,,,,,0.0
+223,Adamantine Mantle,Legendary,Armour,True,,,,,,,0.0
+224,Adamantium Plates,Legendary,Armour,True,,,,,,,0.0
+225,Advanced Exospine,Legendary,Health,True,,,,,,,0.0
+226,Ancient Nano Scarab Swarm,Legendary,Health,True,,,,,,,0.0
+227,Arbiter's Gaze,Legendary,Damage,True,,,,,,,0.0
+228,Archeotech Bionics,Legendary,Damage,False,,,,,,,35.92814371257485
+229,Artificer Flak Plates,Legendary,Armour,True,,,,,,,0.0
+230,Autoloader,Legendary,Damage,True,,,,,,,0.0
+231,Auto-Reactive Stimm Injector,Legendary,Health,True,,,,,,,0.0
+232,Bastion Honour,Legendary,Armour,True,,,,,,,0.0
+233,Bell of Despair,Legendary,Health,True,,,,,,,0.0
+234,Black Rune,Legendary,Armour,True,,,,,,,0.0
+235,Blessed Bolts,Legendary,Damage,True,,,,,,,0.0
+236,Blessed Promethium Tank,Legendary,Damage,True,,,,,,,0.0
+237,Blessing of Nurgle,Legendary,Health,False,,,,,,,25.0
+238,Blessing of the Dark Gods,Legendary,Health,False,,,,,,,25.0
+239,Bolts of Furious Vengeance,Legendary,Damage,True,,,,,,,0.0
+240,Bones of the Paragons,Legendary,Health,False,,,,,,,25.0
+241,Bosspole,Legendary,Armour,True,,,,,,,0.0
+242,Candelabrum of Burning Wrath,Legendary,Health,True,,,,,,,0.0
+243,Ceramite Plates,Legendary,Armour,True,,,,,,,0.0
+244,Chain of Zealous Wrath,Legendary,Damage,True,,,,,,,0.0
+245,Cloud of Flies,Legendary,Armour,True,,,,,,,0.0
+246,Codex Astartes,Legendary,Health,True,,,,,,,0.0
+247,Codex Page,Legendary,Health,False,,,,,,,25.0
+248,Cybork Body Parts,Legendary,Health,True,,,,,,,0.0
+249,Daemon Shells,Legendary,Damage,True,,,,,,,0.0
+250,Ded Brutal Iron Jaw,Legendary,Damage,True,,,,,,,0.0
+251,Ded Shiny 'Ard Plate,Legendary,Armour,True,,,,,,,0.0
+252,Divine Cloak,Legendary,Armour,True,,,,,,,0.0
+253,Engram Neurochip,Legendary,Health,False,,,,,,,25.0
+254,Engrammatic Entangler,Legendary,Health,False,,,,,,,25.0
+255,Epaulettes of Renown,Legendary,Health,True,,,,,,,0.0
+256,Frostblade,Legendary,Damage,True,,,,,,,0.0
+257,Grandiose Skull Ornament,Legendary,Health,True,,,,,,,0.0
+258,Heirloom Entrenching Tool,Legendary,Damage,True,,,,,,,0.0
+259,Hellfury Bolts,Legendary,Damage,True,,,,,,,0.0
+260,Holy Chaplet,Legendary,Health,False,,,,,,,25.0
+261,Holy Corset Armor,Legendary,Armour,True,,,,,,,0.0
+262,Honourifica Imperialis,Legendary,Health,False,,,,,,,25.0
+263,Hymn of the Divine,Legendary,Damage,True,,,,,,,0.0
+264,Ice Wyrm Hide,Legendary,Armour,True,,,,,,,0.0
+265,Icon of Infernal Vengeance,Legendary,Damage,True,,,,,,,0.0
+266,Immaterial Shroud,Legendary,Armour,True,,,,,,,0.0
+267,Infernal Armor Trim,Legendary,Armour,True,,,,,,,0.0
+268,Infernal Eye of Horus,Legendary,Health,True,,,,,,,0.0
+269,Inner Circle Hood,Legendary,Armour,True,,,,,,,0.0
+270,Iridium Plating,Legendary,Armour,True,,,,,,,0.0
+271,Key of Achrabael,Legendary,Health,True,,,,,,,0.0
+272,Kraken Tooth Necklace,Legendary,Damage,True,,,,,,,0.0
+273,Kustom Gubbinz,Legendary,Health,False,,,,,,,25.0
+274,Legendary Reliquary of Protection,Legendary,Health,True,,,,,,,0.0
+275,Legendary Reliquary of Vengeance,Legendary,Damage,True,,,,,,,0.0
+276,Mark of Chaos Undivided,Legendary,Health,True,,,,,,,0.0
+277,Mark of Nurgle,Legendary,Health,True,,,,,,,0.0
+278,Master-Crafted Ammo,Legendary,Damage,False,,,,,,,35.92814371257485
+279,Medallion Resolute,Legendary,Damage,True,,,,,,,0.0
+280,Molecular Vaporiser,Legendary,Damage,True,,,,,,,0.0
+281,Multi-Spectrum Sensor Suite,Legendary,Damage,True,,,,,,,0.0
+282,Mutation: Daemonic Power,Legendary,Health,True,,,,,,,0.0
+283,Mutation: Impenetrable Skin,Legendary,Armour,True,,,,,,,0.0
+284,Mysterious Shielding Device,Legendary,Armour,True,,,,,,,0.0
+285,Octarian Crusade Seal,Legendary,Armour,True,,,,,,,0.0
+286,Overcapacitator,Legendary,Damage,True,,,,,,,0.0
+287,Perfidious Relic of the Unforgiven,Legendary,Health,True,,,,,,,0.0
+288,Personal Saga,Legendary,Health,True,,,,,,,0.0
+289,Phylacterine Hive,Legendary,Health,True,,,,,,,0.0
+290,Portentious Xenos Glyphs,Legendary,Health,True,,,,,,,0.0
+291,Powered Blades,Legendary,Damage,True,,,,,,,0.0
+292,Protocol of the Eternal Guardian,Legendary,Health,True,,,,,,,0.0
+293,Purity Seal of the Primarch,Legendary,Armour,False,,,,,,,48.0
+294,Relic Auxiliary Core,Legendary,Damage,True,,,,,,,0.0
+295,Relic Bionic Enhancement,Legendary,Health,True,,,,,,,0.0
+296,Relic Micro-Generator,Legendary,Damage,True,,,,,,,0.0
+297,Relic Tasset Plate,Legendary,Armour,True,,,,,,,0.0
+298,Resplendent Spirit Stone,Legendary,Health,True,,,,,,,0.0
+299,Roses of the Divine,Legendary,Health,True,,,,,,,0.0
+300,Runes of Fate,Legendary,Health,False,,,,,,,25.0
+301,Sabbat-Pattern Visor,Legendary,Armour,True,,,,,,,0.0
+302,Sash of Honors,Legendary,Health,True,,,,,,,0.0
+303,Scriptures of Battle,Legendary,Damage,True,,,,,,,0.0
+304,Scriptures of Fate,Legendary,Health,True,,,,,,,0.0
+305,Scriptures of Fortune,Legendary,Armour,True,,,,,,,0.0
+306,Seal of the Emperor's Protection,Legendary,Armour,True,,,,,,,0.0
+307,Sentry AI Drone Controller,Legendary,Armour,True,,,,,,,0.0
+308,Shiny Boss Teef,Legendary,Health,True,,,,,,,0.0
+309,Shroud of Heroes,Legendary,Armour,True,,,,,,,0.0
+310,Sigil of Eternal Decay,Legendary,Damage,True,,,,,,,0.0
+311,Simulacrum Sanctorum,Legendary,Health,True,,,,,,,0.0
+312,Snazzy Dakka,Legendary,Damage,True,,,,,,,0.0
+313,Sophisticated Material Plates,Legendary,Armour,True,,,,,,,0.0
+314,Soul-Bonded Psytronome,Legendary,Damage,True,,,,,,,0.0
+315,Soul-Bonded Wraithbone Plate,Legendary,Armour,True,,,,,,,0.0
+316,Stone Guardian Fragment,Legendary,Health,False,,,,,,,
+317,Tabbard of Righteous Wrath,Legendary,Armour,True,,,,,,,0.0
+318,Talisman of Storms,Legendary,Health,True,,,,,,,0.0
+319,Target Lock,Legendary,Damage,True,,,,,,,0.0
+320,Ta'Lissera Bond,Legendary,Health,True,,,,,,,0.0
+321,Tannhauser's Bones,Legendary,Health,True,,,,,,,0.0
+322,Tome of Arcane Knowledge,Legendary,Health,True,,,,,,,0.0
+323,Transdimensional Sanctum,Legendary,Armour,True,,,,,,,0.0
+324,Virulent Rounds,Legendary,Damage,True,,,,,,,0.0
+325,Warpweave Robe,Legendary,Armour,True,,,,,,,0.0
+326,Witchseeker Bolts,Legendary,Damage,True,,,,,,,0.0
