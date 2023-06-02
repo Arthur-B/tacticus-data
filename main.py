@@ -80,14 +80,46 @@ def build_materials_df(path_to_file, df_raw):
     # String to boolean
     df_mat["Craftable"].fillna(False, inplace=True)
     df_mat.loc[df_mat["Craftable"] == "Yes", "Craftable"] = True
+
+    # Drop unnavailable items (Azrael and Thousand Sons) and where they are used
+    unnavailable_items = [
+        "Power Weapon Field Node",  # Outdated name (now Relic Hilt)
+        "Dark Hood",  # Azrael stuff
+        "Calibanite Hood",
+        "Inner Circle Hood",
+        "Chapter Pendant",  #
+        "Bolts of Judgement",
+        "Bolts of Furious Vengeance",
+        "Blessing of Tzeentch",  #
+        "Warpweave Robe",
+        "Stone Guardian Fragment",  #
+        "Perfidious Relic of the Unforgiven",
+        "Arbiter's Gaze",
+        "Key of Ignorance",  #
+        "Key of Knowledge",
+        "Key of Achrabael",
+    ]
+    df_mat.drop(df_mat[df_mat["Item"].isin(unnavailable_items)].index, inplace=True)
+
+    df_mat.drop(
+        df_mat[
+            (df_mat["Item 1"].isin(unnavailable_items))
+            | (df_mat["Item 2"].isin(unnavailable_items))
+            | (df_mat["Item 3"].isin(unnavailable_items))
+        ].index,
+        inplace=True,
+    )
+
     # Fill energy cost of basic items
     df_mat.loc[df_mat["Craftable"] == False, "Average energy cost"] = df_mat.loc[
         df_mat["Craftable"] == False, "Item"
     ].apply(get_average_cost_not_craftable, df_raw=df_raw)
     # Fill energy cost of crafted items
-    df_mat.loc[df_mat["Craftable"] == True, "Average energy cost"] = df_mat.loc[
-        df_mat["Craftable"] == True, "Item"
-    ].apply(get_average_cost_craftable, df_mat=df_mat)
+    # Repeat one time per rarity, complete more and more, ugly, need refactor
+    for n in range(4):
+        df_mat.loc[df_mat["Craftable"] == True, "Average energy cost"] = df_mat.loc[
+            df_mat["Craftable"] == True, "Item"
+        ].apply(get_average_cost_craftable, df_mat=df_mat)
     return df_mat
 
 
