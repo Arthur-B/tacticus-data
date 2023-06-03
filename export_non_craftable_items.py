@@ -9,7 +9,7 @@ import sys
 
 def df2wikitable(df):
     # Format Header
-    print('{| class="article-table sortable mw-collapsible mw-collapsed"')
+    print('{| class="article-table sortable"')
     for col in df.columns:
         print(f"! {col}")
     print("|-")
