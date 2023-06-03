@@ -1,0 +1,19 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Honourifica Imperialis]] x9
+* [[Decorated Cloak]] x1
+* [[Golden Ornamental Skull]] x5
+
+==Complete recipe==
+
+ [[Sash of Honors]] (per item: 1 | tot: 1)
+ 戍式式 [[Honourifica Imperialis]] (per item: 9 | tot: 9)
+ 戍式式 [[Decorated Cloak]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Fine Cloak]] (per item: 1 | tot: 1)
+ 弛   弛   戍式式 [[Cloak]] (per item: 4 | tot: 4)
+ 弛   弛   戌式式 [[Ropes and Chains]] (per item: 4 | tot: 4)
+ 弛   戍式式 [[Metal Decorative Skull]] (per item: 3 | tot: 3)
+ 弛   戌式式 [[Writings]] (per item: 3 | tot: 3)
+ 戌式式 [[Golden Ornamental Skull]] (per item: 5 | tot: 5)

@@ -1,0 +1,38 @@
+===Rare Armour upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Fall of Cadia
+| Standard
+| 59
+| 33.3
+| 6
+| 18.01801801801802
+| 0.0555
+|-
+| Fall of Cadia
+| Mirror
+| 53
+| 40.0
+| 6
+| 15.0
+| 0.06666666666666668
+|-
+| Fall of Cadia
+| Elite
+| 22
+| 111.0
+| 10
+| 9.00900900900901
+| 0.11100000000000003
+|-
+|}

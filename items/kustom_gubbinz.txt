@@ -1,0 +1,38 @@
+===Legendary Health upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Octarius
+| Mirror
+| 72
+| 16.7
+| 6
+| 35.92814371257485
+| 0.02783333333333333
+|-
+| Octarius
+| Elite
+| 23
+| 40.0
+| 10
+| 25.0
+| 0.04
+|-
+| Octarius
+| Elite
+| 38
+| 40.0
+| 10
+| 25.0
+| 0.04
+|-
+|}

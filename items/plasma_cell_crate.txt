@@ -1,0 +1,15 @@
+===Epic Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Plasma Cell Bundle]] x1
+* [[Crate of Salvage]] x6
+
+==Complete recipe==
+
+ [[Plasma Cell Crate]] (per item: 1 | tot: 1)
+ 戍式式 [[Plasma Cell Bundle]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Plasma Cell]] (per item: 6 | tot: 6)
+ 弛   戍式式 [[Barrel of Promethium]] (per item: 3 | tot: 3)
+ 弛   戌式式 [[Can of Promethium]] (per item: 7 | tot: 7)
+ 戌式式 [[Crate of Salvage]] (per item: 6 | tot: 6)

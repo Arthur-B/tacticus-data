@@ -1,0 +1,17 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Bones of the Paragons]] x9
+* [[Prey-Sight]] x1
+* [[Special Issue Ammo]] x6
+
+==Complete recipe==
+
+ [[Witchseeker Bolts]] (per item: 1 | tot: 1)
+ 戍式式 [[Bones of the Paragons]] (per item: 9 | tot: 9)
+ 戍式式 [[Prey-Sight]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Vox-Caster]] (per item: 6 | tot: 6)
+ 弛   戍式式 [[Locator Beacon]] (per item: 5 | tot: 5)
+ 弛   戌式式 [[Auspex]] (per item: 6 | tot: 6)
+ 戌式式 [[Special Issue Ammo]] (per item: 6 | tot: 6)

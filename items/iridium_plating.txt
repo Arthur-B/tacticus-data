@@ -1,0 +1,17 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Engram Neurochip]] x9
+* [[Advanced Stimm Injector]] x1
+* [[Sophisticated Material Bar]] x1
+
+==Complete recipe==
+
+ [[Iridium Plating]] (per item: 1 | tot: 1)
+ 戍式式 [[Engram Neurochip]] (per item: 9 | tot: 9)
+ 戍式式 [[Advanced Stimm Injector]] (per item: 1 | tot: 1)
+ 弛   戌式式 [[Stimm Injector]] (per item: 9 | tot: 9)
+ 戌式式 [[Sophisticated Material Bar]] (per item: 1 | tot: 1)
+     戍式式 [[Sophisticated Material]] (per item: 8 | tot: 8)
+     戌式式 [[Pile of Salvage]] (per item: 4 | tot: 4)

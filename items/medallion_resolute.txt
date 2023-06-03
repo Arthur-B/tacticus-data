@@ -1,0 +1,17 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Honourifica Imperialis]] x9
+* [[Battle Plan]] x1
+* [[Relic Hilt]] x6
+
+==Complete recipe==
+
+ [[Medallion Resolute]] (per item: 1 | tot: 1)
+ 戍式式 [[Honourifica Imperialis]] (per item: 9 | tot: 9)
+ 戍式式 [[Battle Plan]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Kill Count]] (per item: 3 | tot: 3)
+ 弛   戍式式 [[Mission Objective]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Mission Assignment]] (per item: 5 | tot: 5)
+ 戌式式 [[Relic Hilt]] (per item: 6 | tot: 6)

@@ -1,0 +1,30 @@
+===Legendary Health upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Fall of Cadia
+| Elite
+| 29
+| 40.0
+| 10
+| 25.0
+| 0.04
+|-
+| Fall of Cadia
+| Elite
+| 39
+| 40.0
+| 10
+| 25.0
+| 0.04
+|-
+|}

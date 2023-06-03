@@ -1,0 +1,18 @@
+===Epic Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Combat Stimms]] x8
+* [[Barrel of Promethium]] x3
+* [[Medical Supply Crate]] x1
+
+==Complete recipe==
+
+ [[Refined Combat Stimms]] (per item: 1 | tot: 1)
+ 戍式式 [[Combat Stimms]] (per item: 8 | tot: 8)
+ 戍式式 [[Barrel of Promethium]] (per item: 3 | tot: 3)
+ 戌式式 [[Medical Supply Crate]] (per item: 1 | tot: 1)
+     戍式式 [[First Aid Kit]] (per item: 2 | tot: 2)
+     弛   戍式式 [[Standard-Issue Tourniquet]] (per item: 3 | tot: 6)
+     弛   戌式式 [[Healing Ointment]] (per item: 3 | tot: 6)
+     戌式式 [[Field Ration]] (per item: 5 | tot: 5)

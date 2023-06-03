@@ -1,0 +1,13 @@
+===Epic Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Powerful Micro-Generator]] x1
+* [[Classified Data-Slate]] x6
+
+==Complete recipe==
+
+ [[Anointed Micro-Generator]] (per item: 1 | tot: 1)
+ 戍式式 [[Powerful Micro-Generator]] (per item: 1 | tot: 1)
+ 弛   戌式式 [[Fine Micro-Generator]] (per item: 10 | tot: 10)
+ 戌式式 [[Classified Data-Slate]] (per item: 6 | tot: 6)

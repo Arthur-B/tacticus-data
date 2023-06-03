@@ -1,0 +1,16 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Engrammatic Entangler]] x9
+* [[Amaranthite Nano Scarab Swarm]] x1
+* [[Hypermaterial Shifter]] x6
+
+==Complete recipe==
+
+ [[Molecular Vaporiser]] (per item: 1 | tot: 1)
+ 戍式式 [[Engrammatic Entangler]] (per item: 9 | tot: 9)
+ 戍式式 [[Amaranthite Nano Scarab Swarm]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Advanced Filaments]] (per item: 8 | tot: 8)
+ 弛   戌式式 [[Nano Scarab Swarm]] (per item: 7 | tot: 7)
+ 戌式式 [[Hypermaterial Shifter]] (per item: 6 | tot: 6)

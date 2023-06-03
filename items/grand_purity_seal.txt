@@ -1,0 +1,15 @@
+===Epic Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Blessed Purity Seal]] x1
+* [[The Gold Phoenix]] x6
+
+==Complete recipe==
+
+ [[Grand Purity Seal]] (per item: 1 | tot: 1)
+ 戍式式 [[Blessed Purity Seal]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Oath Seal]] (per item: 6 | tot: 6)
+ 弛   戍式式 [[Purity Seal]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Fine Purity Seal]] (per item: 4 | tot: 4)
+ 戌式式 [[The Gold Phoenix]] (per item: 6 | tot: 6)

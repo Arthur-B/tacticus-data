@@ -1,0 +1,38 @@
+===Rare Damage upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Indomitus
+| Elite
+| 26
+| 40.0
+| 10
+| 25.0
+| 0.04
+|-
+| Indomitus
+| Mirror
+| 22
+| 40.0
+| 6
+| 15.0
+| 0.06666666666666668
+|-
+| Fall of Cadia
+| Mirror
+| 51
+| 111.0
+| 6
+| 5.405405405405406
+| 0.18500000000000005
+|-
+|}

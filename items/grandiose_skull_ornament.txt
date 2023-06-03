@@ -1,0 +1,19 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Golden Ornamental Skull]] x5
+* [[Metal Decorative Skull]] x9
+* [[Grand Helmet Trophy]] x1
+
+==Complete recipe==
+
+ [[Grandiose Skull Ornament]] (per item: 1 | tot: 1)
+ 戍式式 [[Golden Ornamental Skull]] (per item: 5 | tot: 5)
+ 戍式式 [[Metal Decorative Skull]] (per item: 9 | tot: 9)
+ 戌式式 [[Grand Helmet Trophy]] (per item: 1 | tot: 1)
+     戍式式 [[Grand Skull Trophy]] (per item: 1 | tot: 1)
+     弛   戍式式 [[Battle Scar]] (per item: 3 | tot: 3)
+     弛   戍式式 [[Helmet Trophy]] (per item: 4 | tot: 4)
+     弛   戌式式 [[Chip Damage]] (per item: 5 | tot: 5)
+     戌式式 [[Kill Count]] (per item: 7 | tot: 7)

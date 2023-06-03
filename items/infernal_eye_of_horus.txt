@@ -1,0 +1,16 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Warp Touched Eye of Horus]] x2
+* [[Mutation: Regenerative Blood]] x1
+
+==Complete recipe==
+
+ [[Infernal Eye of Horus]] (per item: 1 | tot: 1)
+ 戍式式 [[Warp Touched Eye of Horus]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Eye of Horus]] (per item: 9 | tot: 18)
+ 戌式式 [[Mutation: Regenerative Blood]] (per item: 1 | tot: 1)
+     戍式式 [[Mutation: Warped Heart]] (per item: 4 | tot: 4)
+     戍式式 [[Mutation: Warped Lungs]] (per item: 6 | tot: 6)
+     戌式式 [[Mutation: Warped Muscles]] (per item: 6 | tot: 6)

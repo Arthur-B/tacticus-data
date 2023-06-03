@@ -1,0 +1,18 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Engram Neurochip]] x9
+* [[Medical Supply Crate]] x1
+* [[Relic Hilt]] x6
+
+==Complete recipe==
+
+ [[Ta'Lissera Bond]] (per item: 1 | tot: 1)
+ 戍式式 [[Engram Neurochip]] (per item: 9 | tot: 9)
+ 戍式式 [[Medical Supply Crate]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[First Aid Kit]] (per item: 2 | tot: 2)
+ 弛   弛   戍式式 [[Standard-Issue Tourniquet]] (per item: 3 | tot: 6)
+ 弛   弛   戌式式 [[Healing Ointment]] (per item: 3 | tot: 6)
+ 弛   戌式式 [[Field Ration]] (per item: 5 | tot: 5)
+ 戌式式 [[Relic Hilt]] (per item: 6 | tot: 6)

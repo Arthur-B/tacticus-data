@@ -1,0 +1,20 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Advanced Bionics]] x1
+* [[Bionic Neural Pathways]] x6
+* [[Anointed Micro-Generator]] x1
+
+==Complete recipe==
+
+ [[Relic Bionic Enhancement]] (per item: 1 | tot: 1)
+ 戍式式 [[Advanced Bionics]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Bionic Enhancement]] (per item: 2 | tot: 2)
+ 弛   弛   戌式式 [[Minor Bionic Enhancement]] (per item: 6 | tot: 12)
+ 弛   戌式式 [[Standard-Issue Tourniquet]] (per item: 5 | tot: 5)
+ 戍式式 [[Bionic Neural Pathways]] (per item: 6 | tot: 6)
+ 戌式式 [[Anointed Micro-Generator]] (per item: 1 | tot: 1)
+     戍式式 [[Powerful Micro-Generator]] (per item: 1 | tot: 1)
+     弛   戌式式 [[Fine Micro-Generator]] (per item: 10 | tot: 10)
+     戌式式 [[Classified Data-Slate]] (per item: 6 | tot: 6)

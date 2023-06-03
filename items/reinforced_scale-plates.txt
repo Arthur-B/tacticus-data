@@ -1,0 +1,54 @@
+===Uncommon Armour upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Octarius
+| Standard
+| 12
+| 60.0
+| 6
+| 10.0
+| 0.1
+|-
+| Indomitus
+| Mirror
+| 8
+| 71.4
+| 6
+| 8.403361344537814
+| 0.119
+|-
+| Fall of Cadia
+| Mirror
+| 58
+| 71.4
+| 6
+| 8.403361344537814
+| 0.119
+|-
+| Octarius
+| Mirror
+| 25
+| 71.4
+| 6
+| 8.403361344537814
+| 0.119
+|-
+| Octarius
+| Elite
+| 13
+| 117.0
+| 10
+| 8.547008547008549
+| 0.117
+|-
+|}

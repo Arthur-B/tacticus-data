@@ -1,0 +1,18 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Ded 'Ard Plate]] x2
+* [[Scale-Plate Mantle]] x1
+
+==Complete recipe==
+
+ [[Ded Shiny 'Ard Plate]] (per item: 1 | tot: 1)
+ 戍式式 [[Ded 'Ard Plate]] (per item: 2 | tot: 2)
+ 弛   戌式式 [['Ard Plate]] (per item: 9 | tot: 18)
+ 戌式式 [[Scale-Plate Mantle]] (per item: 1 | tot: 1)
+     戍式式 [[Scale-Plate Strand]] (per item: 1 | tot: 1)
+     弛   戍式式 [[Reinforced Scale-Plates]] (per item: 6 | tot: 6)
+     弛   戍式式 [[Metal Joints]] (per item: 4 | tot: 4)
+     弛   戌式式 [[Weapon Parts]] (per item: 4 | tot: 4)
+     戌式式 [[Reinforced Scale-Plates]] (per item: 6 | tot: 6)

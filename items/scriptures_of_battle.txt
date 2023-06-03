@@ -1,0 +1,17 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Runes of Fate]] x9
+* [[Battle Plan]] x1
+* [[Warp Locus]] x6
+
+==Complete recipe==
+
+ [[Scriptures of Battle]] (per item: 1 | tot: 1)
+ 戍式式 [[Runes of Fate]] (per item: 9 | tot: 9)
+ 戍式式 [[Battle Plan]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Kill Count]] (per item: 3 | tot: 3)
+ 弛   戍式式 [[Mission Objective]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Mission Assignment]] (per item: 5 | tot: 5)
+ 戌式式 [[Warp Locus]] (per item: 6 | tot: 6)

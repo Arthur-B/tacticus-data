@@ -1,0 +1,18 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Ceramite Sheet]] x1
+* [[Crate of Salvage]] x8
+* [[Ceramite Lump]] x9
+
+==Complete recipe==
+
+ [[Ceramite Plates]] (per item: 1 | tot: 1)
+ 戍式式 [[Ceramite Sheet]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Ceramite Bar]] (per item: 1 | tot: 1)
+ 弛   弛   戍式式 [[Ceramite Lump]] (per item: 5 | tot: 5)
+ 弛   弛   戌式式 [[Pile of Salvage]] (per item: 6 | tot: 6)
+ 弛   戌式式 [[Box of Salvage]] (per item: 6 | tot: 6)
+ 戍式式 [[Crate of Salvage]] (per item: 8 | tot: 8)
+ 戌式式 [[Ceramite Lump]] (per item: 9 | tot: 9)

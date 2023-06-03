@@ -1,0 +1,19 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Adamantium Sheet]] x1
+* [[Crate of Salvage]] x8
+* [[Adamantium Lump]] x2
+
+==Complete recipe==
+
+ [[Adamantium Plates]] (per item: 1 | tot: 1)
+ 戍式式 [[Adamantium Sheet]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Adamantium Bar]] (per item: 1 | tot: 1)
+ 弛   弛   戍式式 [[Adamantium Ore]] (per item: 8 | tot: 8)
+ 弛   弛   戌式式 [[Pile of Salvage]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Box of Salvage]] (per item: 6 | tot: 6)
+ 戍式式 [[Crate of Salvage]] (per item: 8 | tot: 8)
+ 戌式式 [[Adamantium Lump]] (per item: 2 | tot: 2)
+     戌式式 [[Adamantium Ore]] (per item: 6 | tot: 12)

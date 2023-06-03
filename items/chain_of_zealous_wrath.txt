@@ -1,0 +1,18 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Chain of Righteous Zeal]] x2
+* [[Sanctified Weapon Oils]] x1
+
+==Complete recipe==
+
+ [[Chain of Zealous Wrath]] (per item: 1 | tot: 1)
+ 戍式式 [[Chain of Righteous Zeal]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Chain of Zeal]] (per item: 9 | tot: 18)
+ 戌式式 [[Sanctified Weapon Oils]] (per item: 1 | tot: 1)
+     戍式式 [[Blessed Weapon Oils]] (per item: 2 | tot: 2)
+     弛   戍式式 [[Weapon Anointment Oils]] (per item: 6 | tot: 12)
+     弛   戌式式 [[Canister of Promethium]] (per item: 3 | tot: 6)
+     戍式式 [[Barrel of Promethium]] (per item: 2 | tot: 2)
+     戌式式 [[Can of Promethium]] (per item: 2 | tot: 2)

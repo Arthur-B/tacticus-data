@@ -1,0 +1,14 @@
+===Epic Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Sophisticated Material Bar]] x1
+* [[Box of Salvage]] x6
+
+==Complete recipe==
+
+ [[Sophisticated Material Sheet]] (per item: 1 | tot: 1)
+ 戍式式 [[Sophisticated Material Bar]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Sophisticated Material]] (per item: 8 | tot: 8)
+ 弛   戌式式 [[Pile of Salvage]] (per item: 4 | tot: 4)
+ 戌式式 [[Box of Salvage]] (per item: 6 | tot: 6)

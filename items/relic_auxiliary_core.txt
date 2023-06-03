@@ -1,0 +1,18 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Powerful Auxiliary Core]] x1
+* [[Anointed Micro-Generator]] x1
+
+==Complete recipe==
+
+ [[Relic Auxiliary Core]] (per item: 1 | tot: 1)
+ 戍式式 [[Powerful Auxiliary Core]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Fine Micro-Generator]] (per item: 5 | tot: 5)
+ 弛   戌式式 [[Fine Auxiliary Core]] (per item: 2 | tot: 2)
+ 弛       戌式式 [[Basic Auxiliary Core]] (per item: 6 | tot: 12)
+ 戌式式 [[Anointed Micro-Generator]] (per item: 1 | tot: 1)
+     戍式式 [[Powerful Micro-Generator]] (per item: 1 | tot: 1)
+     弛   戌式式 [[Fine Micro-Generator]] (per item: 10 | tot: 10)
+     戌式式 [[Classified Data-Slate]] (per item: 6 | tot: 6)

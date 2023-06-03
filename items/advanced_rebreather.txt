@@ -1,0 +1,38 @@
+===Uncommon Armour upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Indomitus
+| Standard
+| 68
+| 60.0
+| 6
+| 10.0
+| 0.1
+|-
+| Octarius
+| Standard
+| 33
+| 60.0
+| 6
+| 10.0
+| 0.1
+|-
+| Octarius
+| Mirror
+| 46
+| 71.4
+| 6
+| 8.403361344537814
+| 0.119
+|-
+|}

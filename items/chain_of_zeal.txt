@@ -1,0 +1,38 @@
+===Rare Damage upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Octarius
+| Standard
+| 41
+| 33.3
+| 6
+| 18.01801801801802
+| 0.0555
+|-
+| Octarius
+| Mirror
+| 59
+| 40.0
+| 6
+| 15.0
+| 0.06666666666666668
+|-
+| Octarius
+| Elite
+| 25
+| 111.0
+| 10
+| 9.00900900900901
+| 0.11100000000000003
+|-
+|}

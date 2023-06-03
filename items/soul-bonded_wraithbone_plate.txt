@@ -1,0 +1,18 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Filligrane Wraithbone Plate]] x2
+* [[Advanced Mesh Weave Garment]] x1
+
+==Complete recipe==
+
+ [[Soul-Bonded Wraithbone Plate]] (per item: 1 | tot: 1)
+ 戍式式 [[Filligrane Wraithbone Plate]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Wraithbone Plate]] (per item: 9 | tot: 18)
+ 戌式式 [[Advanced Mesh Weave Garment]] (per item: 1 | tot: 1)
+     戍式式 [[Mesh Weave Garment]] (per item: 1 | tot: 1)
+     弛   戍式式 [[Mesh Weave]] (per item: 6 | tot: 6)
+     弛   戍式式 [[Rebreather]] (per item: 4 | tot: 4)
+     弛   戌式式 [[Adamantium Filaments]] (per item: 4 | tot: 4)
+     戌式式 [[Mesh Weave]] (per item: 6 | tot: 6)

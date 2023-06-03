@@ -1,0 +1,18 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Veteran's Entrenching Tool]] x2
+* [[Sanctified Weapon Oils]] x1
+
+==Complete recipe==
+
+ [[Heirloom Entrenching Tool]] (per item: 1 | tot: 1)
+ 戍式式 [[Veteran's Entrenching Tool]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Entrenching Tool]] (per item: 9 | tot: 18)
+ 戌式式 [[Sanctified Weapon Oils]] (per item: 1 | tot: 1)
+     戍式式 [[Blessed Weapon Oils]] (per item: 2 | tot: 2)
+     弛   戍式式 [[Weapon Anointment Oils]] (per item: 6 | tot: 12)
+     弛   戌式式 [[Canister of Promethium]] (per item: 3 | tot: 6)
+     戍式式 [[Barrel of Promethium]] (per item: 2 | tot: 2)
+     戌式式 [[Can of Promethium]] (per item: 2 | tot: 2)

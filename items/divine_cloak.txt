@@ -1,0 +1,19 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Decorated Cloak]] x1
+* [[Golden Ornamental Skull]] x6
+* [[Satchel]] x8
+
+==Complete recipe==
+
+ [[Divine Cloak]] (per item: 1 | tot: 1)
+ 戍式式 [[Decorated Cloak]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Fine Cloak]] (per item: 1 | tot: 1)
+ 弛   弛   戍式式 [[Cloak]] (per item: 4 | tot: 4)
+ 弛   弛   戌式式 [[Ropes and Chains]] (per item: 4 | tot: 4)
+ 弛   戍式式 [[Metal Decorative Skull]] (per item: 3 | tot: 3)
+ 弛   戌式式 [[Writings]] (per item: 3 | tot: 3)
+ 戍式式 [[Golden Ornamental Skull]] (per item: 6 | tot: 6)
+ 戌式式 [[Satchel]] (per item: 8 | tot: 8)

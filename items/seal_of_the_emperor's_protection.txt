@@ -1,0 +1,19 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Grand Purity Seal]] x1
+* [[Terminator Honours]] x7
+* [[The Iron Phoenix]] x9
+
+==Complete recipe==
+
+ [[Seal of the Emperor's Protection]] (per item: 1 | tot: 1)
+ 戍式式 [[Grand Purity Seal]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Blessed Purity Seal]] (per item: 1 | tot: 1)
+ 弛   弛   戍式式 [[Oath Seal]] (per item: 6 | tot: 6)
+ 弛   弛   戍式式 [[Purity Seal]] (per item: 4 | tot: 4)
+ 弛   弛   戌式式 [[Fine Purity Seal]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[The Gold Phoenix]] (per item: 6 | tot: 6)
+ 戍式式 [[Terminator Honours]] (per item: 7 | tot: 7)
+ 戌式式 [[The Iron Phoenix]] (per item: 9 | tot: 9)

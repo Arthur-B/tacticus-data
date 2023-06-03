@@ -1,0 +1,38 @@
+===Common Health upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Fall of Cadia
+| Standard
+| 49
+| 75.0
+| 6
+| 8.0
+| 0.125
+|-
+| Octarius
+| Standard
+| 63
+| 75.0
+| 6
+| 8.0
+| 0.125
+|-
+| Indomitus
+| Mirror
+| 66
+| 83.3
+| 6
+| 7.202881152460985
+| 0.13883333333333334
+|-
+|}

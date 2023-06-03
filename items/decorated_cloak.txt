@@ -1,0 +1,16 @@
+===Epic Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Fine Cloak]] x1
+* [[Metal Decorative Skull]] x3
+* [[Writings]] x3
+
+==Complete recipe==
+
+ [[Decorated Cloak]] (per item: 1 | tot: 1)
+ 戍式式 [[Fine Cloak]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Cloak]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Ropes and Chains]] (per item: 4 | tot: 4)
+ 戍式式 [[Metal Decorative Skull]] (per item: 3 | tot: 3)
+ 戌式式 [[Writings]] (per item: 3 | tot: 3)

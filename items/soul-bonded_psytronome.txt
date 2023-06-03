@@ -1,0 +1,18 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Filligrane Psytronome]] x2
+* [[Ratiocination Targeting]] x1
+
+==Complete recipe==
+
+ [[Soul-Bonded Psytronome]] (per item: 1 | tot: 1)
+ 戍式式 [[Filligrane Psytronome]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Psytronome]] (per item: 9 | tot: 18)
+ 戌式式 [[Ratiocination Targeting]] (per item: 1 | tot: 1)
+     戍式式 [[Targeting Matrix]] (per item: 2 | tot: 2)
+     弛   戍式式 [[Targeting Link]] (per item: 6 | tot: 12)
+     弛   戌式式 [[Ballistics Data]] (per item: 3 | tot: 6)
+     戍式式 [[Attack Vector Data-Slate]] (per item: 2 | tot: 2)
+     戌式式 [[Mission Assignment]] (per item: 2 | tot: 2)

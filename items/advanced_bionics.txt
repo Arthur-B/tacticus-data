@@ -1,0 +1,13 @@
+===Rare Health upgrade (crafted)===
+
+==Required items==
+
+* [[Bionic Enhancement]] x2
+* [[Standard-Issue Tourniquet]] x5
+
+==Complete recipe==
+
+ [[Advanced Bionics]] (per item: 1 | tot: 1)
+ 戍式式 [[Bionic Enhancement]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Minor Bionic Enhancement]] (per item: 6 | tot: 12)
+ 戌式式 [[Standard-Issue Tourniquet]] (per item: 5 | tot: 5)

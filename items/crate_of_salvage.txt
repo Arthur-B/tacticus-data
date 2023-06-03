@@ -1,0 +1,54 @@
+===Rare Armour upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Fall of Cadia
+| Standard
+| 11
+| 33.3
+| 6
+| 18.01801801801802
+| 0.0555
+|-
+| Indomitus
+| Mirror
+| 12
+| 40.0
+| 6
+| 15.0
+| 0.06666666666666668
+|-
+| Fall of Cadia
+| Mirror
+| 40
+| 40.0
+| 6
+| 15.0
+| 0.06666666666666668
+|-
+| Octarius
+| Mirror
+| 38
+| 40.0
+| 6
+| 15.0
+| 0.06666666666666668
+|-
+| Octarius
+| Elite
+| 15
+| 111.0
+| 10
+| 9.00900900900901
+| 0.11100000000000003
+|-
+|}

@@ -1,0 +1,15 @@
+===Epic Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Scale-Plate Strand]] x1
+* [[Reinforced Scale-Plates]] x6
+
+==Complete recipe==
+
+ [[Scale-Plate Mantle]] (per item: 1 | tot: 1)
+ 戍式式 [[Scale-Plate Strand]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Reinforced Scale-Plates]] (per item: 6 | tot: 6)
+ 弛   戍式式 [[Metal Joints]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Weapon Parts]] (per item: 4 | tot: 4)
+ 戌式式 [[Reinforced Scale-Plates]] (per item: 6 | tot: 6)

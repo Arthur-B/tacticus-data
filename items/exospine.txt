@@ -1,0 +1,17 @@
+===Epic Health upgrade (crafted)===
+
+==Required items==
+
+* [[Electromantic Cable Bundle]] x1
+* [[Artificial Vertebrae]] x7
+* [[Single Power Pack]] x7
+
+==Complete recipe==
+
+ [[Exospine]] (per item: 1 | tot: 1)
+ 戍式式 [[Electromantic Cable Bundle]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Wires]] (per item: 8 | tot: 8)
+ 弛   戍式式 [[Reinforced Cables]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Weapon Parts]] (per item: 4 | tot: 4)
+ 戍式式 [[Artificial Vertebrae]] (per item: 7 | tot: 7)
+ 戌式式 [[Single Power Pack]] (per item: 7 | tot: 7)

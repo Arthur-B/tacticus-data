@@ -1,0 +1,19 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Box of Ammo]] x1
+* [[Belt of Krak Grenades]] x1
+* [[Special Issue Ammo]] x3
+
+==Complete recipe==
+
+ [[Autoloader]] (per item: 1 | tot: 1)
+ 戍式式 [[Box of Ammo]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Magazine]] (per item: 2 | tot: 2)
+ 弛   弛   戌式式 [[Round of Ammo]] (per item: 6 | tot: 12)
+ 弛   戌式式 [[Belt of Frag Grenades]] (per item: 1 | tot: 1)
+ 弛       戌式式 [[Frag Grenade]] (per item: 6 | tot: 6)
+ 戍式式 [[Belt of Krak Grenades]] (per item: 1 | tot: 1)
+ 弛   戌式式 [[Krak Grenade]] (per item: 10 | tot: 10)
+ 戌式式 [[Special Issue Ammo]] (per item: 3 | tot: 3)

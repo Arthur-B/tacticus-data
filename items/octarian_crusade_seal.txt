@@ -1,0 +1,15 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Bones of the Paragons]] x9
+* [[Crusader's Tabbard]] x1
+* [[Bladesman's Honour]] x7
+
+==Complete recipe==
+
+ [[Octarian Crusade Seal]] (per item: 1 | tot: 1)
+ 戍式式 [[Bones of the Paragons]] (per item: 9 | tot: 9)
+ 戍式式 [[Crusader's Tabbard]] (per item: 1 | tot: 1)
+ 弛   戌式式 [[Blessed Tabbard]] (per item: 9 | tot: 9)
+ 戌式式 [[Bladesman's Honour]] (per item: 7 | tot: 7)

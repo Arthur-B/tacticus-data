@@ -1,0 +1,17 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Brutal Iron Jaw]] x2
+* [[Murderous Spikes]] x1
+
+==Complete recipe==
+
+ [[Ded Brutal Iron Jaw]] (per item: 1 | tot: 1)
+ 戍式式 [[Brutal Iron Jaw]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Iron Jaw]] (per item: 9 | tot: 18)
+ 戌式式 [[Murderous Spikes]] (per item: 1 | tot: 1)
+     戍式式 [[Razorsharp Spikes]] (per item: 2 | tot: 2)
+     弛   戍式式 [[Nasty Spikes]] (per item: 6 | tot: 12)
+     弛   戌式式 [[Chip Damage]] (per item: 3 | tot: 6)
+     戌式式 [[Repair-Kit]] (per item: 2 | tot: 2)

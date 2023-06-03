@@ -1,0 +1,18 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Sophisticated Material Sheet]] x1
+* [[Hypermaterial Shifter]] x7
+* [[Plasma Cell]] x10
+
+==Complete recipe==
+
+ [[Mysterious Shielding Device]] (per item: 1 | tot: 1)
+ 戍式式 [[Sophisticated Material Sheet]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Sophisticated Material Bar]] (per item: 1 | tot: 1)
+ 弛   弛   戍式式 [[Sophisticated Material]] (per item: 8 | tot: 8)
+ 弛   弛   戌式式 [[Pile of Salvage]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Box of Salvage]] (per item: 6 | tot: 6)
+ 戍式式 [[Hypermaterial Shifter]] (per item: 7 | tot: 7)
+ 戌式式 [[Plasma Cell]] (per item: 10 | tot: 10)

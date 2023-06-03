@@ -1,0 +1,15 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Blessing of Nurgle]] x9
+* [[Death Shroud]] x1
+* [[Warp Locus]] x5
+
+==Complete recipe==
+
+ [[Cloud of Flies]] (per item: 1 | tot: 1)
+ 戍式式 [[Blessing of Nurgle]] (per item: 9 | tot: 9)
+ 戍式式 [[Death Shroud]] (per item: 1 | tot: 1)
+ 弛   戌式式 [[Unnatural Vapour Dispenser]] (per item: 9 | tot: 9)
+ 戌式式 [[Warp Locus]] (per item: 5 | tot: 5)

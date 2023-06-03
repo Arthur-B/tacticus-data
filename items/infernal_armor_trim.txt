@@ -1,0 +1,18 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Daemonic Armor Trim]] x2
+* [[Mutation: Metallic Skin]] x1
+
+==Complete recipe==
+
+ [[Infernal Armor Trim]] (per item: 1 | tot: 1)
+ 戍式式 [[Daemonic Armor Trim]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Blasphemous Armor Trim]] (per item: 9 | tot: 18)
+ 戌式式 [[Mutation: Metallic Skin]] (per item: 1 | tot: 1)
+     戍式式 [[Mutation: Warped Skin]] (per item: 1 | tot: 1)
+     弛   戍式式 [[Mutation: Scaly Skin]] (per item: 6 | tot: 6)
+     弛   戍式式 [[Mutation: Tough Skin]] (per item: 4 | tot: 4)
+     弛   戌式式 [[Mutation: Warped Muscles]] (per item: 4 | tot: 4)
+     戌式式 [[Mutation: Scaly Skin]] (per item: 6 | tot: 6)

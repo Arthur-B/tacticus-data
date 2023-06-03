@@ -1,0 +1,13 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Lights of Purgation]] x2
+* [[Greater Reliquary of Vengeance]] x1
+
+==Complete recipe==
+
+ [[Candelabrum of Burning Wrath]] (per item: 1 | tot: 1)
+ 戍式式 [[Lights of Purgation]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Righteous Candle]] (per item: 9 | tot: 18)
+ 戌式式 [[Greater Reliquary of Vengeance]] (per item: 1 | tot: 1)

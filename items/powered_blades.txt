@@ -1,0 +1,20 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Adamantium Blades]] x1
+* [[Relic Hilt]] x4
+* [[Anointed Micro-Generator]] x1
+
+==Complete recipe==
+
+ [[Powered Blades]] (per item: 1 | tot: 1)
+ 戍式式 [[Adamantium Blades]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Weapon Parts]] (per item: 2 | tot: 2)
+ 弛   戍式式 [[Adamantium Ore]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Ropes and Chains]] (per item: 2 | tot: 2)
+ 戍式式 [[Relic Hilt]] (per item: 4 | tot: 4)
+ 戌式式 [[Anointed Micro-Generator]] (per item: 1 | tot: 1)
+     戍式式 [[Powerful Micro-Generator]] (per item: 1 | tot: 1)
+     弛   戌式式 [[Fine Micro-Generator]] (per item: 10 | tot: 10)
+     戌式式 [[Classified Data-Slate]] (per item: 6 | tot: 6)

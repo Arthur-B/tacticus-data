@@ -1,0 +1,15 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Blessing of the Dark Gods]] x9
+* [[Icon of Daemonic Vengeance]] x1
+* [[Ancient Runes]] x7
+
+==Complete recipe==
+
+ [[Black Rune]] (per item: 1 | tot: 1)
+ 戍式式 [[Blessing of the Dark Gods]] (per item: 9 | tot: 9)
+ 戍式式 [[Icon of Daemonic Vengeance]] (per item: 1 | tot: 1)
+ 弛   戌式式 [[Icon of Vengeance]] (per item: 9 | tot: 9)
+ 戌式式 [[Ancient Runes]] (per item: 7 | tot: 7)

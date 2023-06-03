@@ -1,0 +1,14 @@
+===Rare Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Magazine]] x2
+* [[Belt of Frag Grenades]] x1
+
+==Complete recipe==
+
+ [[Box of Ammo]] (per item: 1 | tot: 1)
+ 戍式式 [[Magazine]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Round of Ammo]] (per item: 6 | tot: 12)
+ 戌式式 [[Belt of Frag Grenades]] (per item: 1 | tot: 1)
+     戌式式 [[Frag Grenade]] (per item: 6 | tot: 6)

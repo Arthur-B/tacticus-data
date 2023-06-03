@@ -1,0 +1,14 @@
+===Rare Health upgrade (crafted)===
+
+==Required items==
+
+* [[First Aid Kit]] x2
+* [[Field Ration]] x5
+
+==Complete recipe==
+
+ [[Medical Supply Crate]] (per item: 1 | tot: 1)
+ 戍式式 [[First Aid Kit]] (per item: 2 | tot: 2)
+ 弛   戍式式 [[Standard-Issue Tourniquet]] (per item: 3 | tot: 6)
+ 弛   戌式式 [[Healing Ointment]] (per item: 3 | tot: 6)
+ 戌式式 [[Field Ration]] (per item: 5 | tot: 5)

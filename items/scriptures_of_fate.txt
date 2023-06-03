@@ -1,0 +1,17 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Runes of Fate]] x9
+* [[Supernatural Sight]] x1
+* [[Warp Locus]] x6
+
+==Complete recipe==
+
+ [[Scriptures of Fate]] (per item: 1 | tot: 1)
+ 戍式式 [[Runes of Fate]] (per item: 9 | tot: 9)
+ 戍式式 [[Supernatural Sight]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Ballistics Data]] (per item: 6 | tot: 6)
+ 弛   戍式式 [[Writings]] (per item: 5 | tot: 5)
+ 弛   戌式式 [[Scrolls]] (per item: 6 | tot: 6)
+ 戌式式 [[Warp Locus]] (per item: 6 | tot: 6)

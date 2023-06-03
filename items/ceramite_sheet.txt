@@ -1,0 +1,14 @@
+===Epic Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Ceramite Bar]] x1
+* [[Box of Salvage]] x6
+
+==Complete recipe==
+
+ [[Ceramite Sheet]] (per item: 1 | tot: 1)
+ 戍式式 [[Ceramite Bar]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Ceramite Lump]] (per item: 5 | tot: 5)
+ 弛   戌式式 [[Pile of Salvage]] (per item: 6 | tot: 6)
+ 戌式式 [[Box of Salvage]] (per item: 6 | tot: 6)

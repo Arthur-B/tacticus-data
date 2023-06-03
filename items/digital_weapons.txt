@@ -1,0 +1,19 @@
+===Rare Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Sanctified Weapon Oils]] x2
+* [[Special Issue Ammo]] x2
+* [[Weapon Parts]] x2
+
+==Complete recipe==
+
+ [[Digital Weapons]] (per item: 1 | tot: 1)
+ 戍式式 [[Sanctified Weapon Oils]] (per item: 2 | tot: 2)
+ 弛   戍式式 [[Blessed Weapon Oils]] (per item: 2 | tot: 4)
+ 弛   弛   戍式式 [[Weapon Anointment Oils]] (per item: 6 | tot: 24)
+ 弛   弛   戌式式 [[Canister of Promethium]] (per item: 3 | tot: 12)
+ 弛   戍式式 [[Barrel of Promethium]] (per item: 2 | tot: 4)
+ 弛   戌式式 [[Can of Promethium]] (per item: 2 | tot: 4)
+ 戍式式 [[Special Issue Ammo]] (per item: 2 | tot: 2)
+ 戌式式 [[Weapon Parts]] (per item: 2 | tot: 2)

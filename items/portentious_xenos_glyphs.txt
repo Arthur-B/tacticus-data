@@ -1,0 +1,17 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Ominous Xenos Glyphs]] x1
+* [[Ancient Runes]] x5
+* [[Adamantium Filaments]] x10
+
+==Complete recipe==
+
+ [[Portentious Xenos Glyphs]] (per item: 1 | tot: 1)
+ 戍式式 [[Ominous Xenos Glyphs]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Ancient Runes]] (per item: 4 | tot: 4)
+ 弛   戍式式 [[Writings]] (per item: 6 | tot: 6)
+ 弛   戌式式 [[Scrolls]] (per item: 6 | tot: 6)
+ 戍式式 [[Ancient Runes]] (per item: 5 | tot: 5)
+ 戌式式 [[Adamantium Filaments]] (per item: 10 | tot: 10)

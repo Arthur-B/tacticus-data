@@ -1,0 +1,16 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Roses of Sacrifice]] x2
+* [[Greater Reliquary of Protection]] x1
+
+==Complete recipe==
+
+ [[Roses of the Divine]] (per item: 1 | tot: 1)
+ 戍式式 [[Roses of Sacrifice]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Rose of Martyrs]] (per item: 9 | tot: 18)
+ 戌式式 [[Greater Reliquary of Protection]] (per item: 1 | tot: 1)
+     戍式式 [[The Phoenix Ascendant]] (per item: 4 | tot: 4)
+     戍式式 [[Reliquary of Protection]] (per item: 6 | tot: 6)
+     戌式式 [[Lesser Reliquary of Protection]] (per item: 6 | tot: 6)

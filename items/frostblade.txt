@@ -1,0 +1,17 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Mjod]] x9
+* [[Adamantium Blades]] x3
+* [[Relic Hilt]] x6
+
+==Complete recipe==
+
+ [[Frostblade]] (per item: 1 | tot: 1)
+ 戍式式 [[Mjod]] (per item: 9 | tot: 9)
+ 戍式式 [[Adamantium Blades]] (per item: 3 | tot: 3)
+ 弛   戍式式 [[Weapon Parts]] (per item: 2 | tot: 6)
+ 弛   戍式式 [[Adamantium Ore]] (per item: 2 | tot: 6)
+ 弛   戌式式 [[Ropes and Chains]] (per item: 2 | tot: 6)
+ 戌式式 [[Relic Hilt]] (per item: 6 | tot: 6)

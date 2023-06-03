@@ -1,0 +1,16 @@
+===Epic Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Impressive Armor Trim]] x1
+* [[Blessed Tasset Plate]] x6
+* [[Golden Ornamental Skull]] x1
+
+==Complete recipe==
+
+ [[Ancient Tasset Plate]] (per item: 1 | tot: 1)
+ 戍式式 [[Impressive Armor Trim]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Armor Trim]] (per item: 5 | tot: 5)
+ 弛   戌式式 [[Metal Decorative Skull]] (per item: 2 | tot: 2)
+ 戍式式 [[Blessed Tasset Plate]] (per item: 6 | tot: 6)
+ 戌式式 [[Golden Ornamental Skull]] (per item: 1 | tot: 1)

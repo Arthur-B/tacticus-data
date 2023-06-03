@@ -1,0 +1,46 @@
+===Uncommon Damage upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Indomitus
+| Standard
+| 25
+| 60.0
+| 5
+| 8.333333333333334
+| 0.12
+|-
+| Fall of Cadia
+| Standard
+| 35
+| 60.0
+| 6
+| 10.0
+| 0.1
+|-
+| Octarius
+| Standard
+| 70
+| 60.0
+| 6
+| 10.0
+| 0.1
+|-
+| Fall of Cadia
+| Mirror
+| 11
+| 71.4
+| 6
+| 8.403361344537814
+| 0.119
+|-
+|}

@@ -1,0 +1,38 @@
+===Uncommon Armour upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Fall of Cadia
+| Standard
+| 63
+| 60.0
+| 6
+| 10.0
+| 0.1
+|-
+| Indomitus
+| Mirror
+| 9
+| 71.4
+| 6
+| 8.403361344537814
+| 0.119
+|-
+| Fall of Cadia
+| Mirror
+| 61
+| 71.4
+| 6
+| 8.403361344537814
+| 0.119
+|-
+|}

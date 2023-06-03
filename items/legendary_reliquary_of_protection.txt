@@ -1,0 +1,17 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Greater Reliquary of Protection]] x1
+* [[Zeidos Ribbon]] x5
+* [[The Silver Aquila]] x10
+
+==Complete recipe==
+
+ [[Legendary Reliquary of Protection]] (per item: 1 | tot: 1)
+ 戍式式 [[Greater Reliquary of Protection]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[The Phoenix Ascendant]] (per item: 4 | tot: 4)
+ 弛   戍式式 [[Reliquary of Protection]] (per item: 6 | tot: 6)
+ 弛   戌式式 [[Lesser Reliquary of Protection]] (per item: 6 | tot: 6)
+ 戍式式 [[Zeidos Ribbon]] (per item: 5 | tot: 5)
+ 戌式式 [[The Silver Aquila]] (per item: 10 | tot: 10)

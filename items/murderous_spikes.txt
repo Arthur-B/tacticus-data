@@ -1,0 +1,14 @@
+===Rare Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Razorsharp Spikes]] x2
+* [[Repair-Kit]] x2
+
+==Complete recipe==
+
+ [[Murderous Spikes]] (per item: 1 | tot: 1)
+ 戍式式 [[Razorsharp Spikes]] (per item: 2 | tot: 2)
+ 弛   戍式式 [[Nasty Spikes]] (per item: 6 | tot: 12)
+ 弛   戌式式 [[Chip Damage]] (per item: 3 | tot: 6)
+ 戌式式 [[Repair-Kit]] (per item: 2 | tot: 2)

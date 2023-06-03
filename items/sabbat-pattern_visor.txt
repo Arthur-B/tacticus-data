@@ -1,0 +1,17 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Holy Chaplet]] x9
+* [[Hymn of Martyrs]] x8
+* [[Prey-Sight]] x1
+
+==Complete recipe==
+
+ [[Sabbat-Pattern Visor]] (per item: 1 | tot: 1)
+ 戍式式 [[Holy Chaplet]] (per item: 9 | tot: 9)
+ 戍式式 [[Hymn of Martyrs]] (per item: 8 | tot: 8)
+ 戌式式 [[Prey-Sight]] (per item: 1 | tot: 1)
+     戍式式 [[Vox-Caster]] (per item: 6 | tot: 6)
+     戍式式 [[Locator Beacon]] (per item: 5 | tot: 5)
+     戌式式 [[Auspex]] (per item: 6 | tot: 6)

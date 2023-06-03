@@ -1,0 +1,17 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Kustom Gubbinz]] x9
+* [[Iron Jaw]] x8
+* [[Grand Skull Trophy]] x1
+
+==Complete recipe==
+
+ [[Bosspole]] (per item: 1 | tot: 1)
+ 戍式式 [[Kustom Gubbinz]] (per item: 9 | tot: 9)
+ 戍式式 [[Iron Jaw]] (per item: 8 | tot: 8)
+ 戌式式 [[Grand Skull Trophy]] (per item: 1 | tot: 1)
+     戍式式 [[Battle Scar]] (per item: 3 | tot: 3)
+     戍式式 [[Helmet Trophy]] (per item: 4 | tot: 4)
+     戌式式 [[Chip Damage]] (per item: 5 | tot: 5)

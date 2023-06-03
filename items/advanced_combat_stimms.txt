@@ -1,0 +1,16 @@
+===Rare Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Medical Supply Crate]] x1
+* [[Combat Stimms]] x1
+
+==Complete recipe==
+
+ [[Advanced Combat Stimms]] (per item: 1 | tot: 1)
+ 戍式式 [[Medical Supply Crate]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[First Aid Kit]] (per item: 2 | tot: 2)
+ 弛   弛   戍式式 [[Standard-Issue Tourniquet]] (per item: 3 | tot: 6)
+ 弛   弛   戌式式 [[Healing Ointment]] (per item: 3 | tot: 6)
+ 弛   戌式式 [[Field Ration]] (per item: 5 | tot: 5)
+ 戌式式 [[Combat Stimms]] (per item: 1 | tot: 1)

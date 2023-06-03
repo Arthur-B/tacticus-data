@@ -1,0 +1,22 @@
+===Epic Damage upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Fall of Cadia
+| Mirror
+| 28
+| 33.3
+| 6
+| 18.01801801801802
+| 0.0555
+|-
+|}

@@ -1,0 +1,15 @@
+===Epic Health upgrade (crafted)===
+
+==Required items==
+
+* [[Grand Skull Trophy]] x1
+* [[Kill Count]] x7
+
+==Complete recipe==
+
+ [[Grand Helmet Trophy]] (per item: 1 | tot: 1)
+ 戍式式 [[Grand Skull Trophy]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Battle Scar]] (per item: 3 | tot: 3)
+ 弛   戍式式 [[Helmet Trophy]] (per item: 4 | tot: 4)
+ 弛   戌式式 [[Chip Damage]] (per item: 5 | tot: 5)
+ 戌式式 [[Kill Count]] (per item: 7 | tot: 7)

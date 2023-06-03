@@ -1,0 +1,15 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Engram Neurochip]] x9
+* [[Prey-Sight]] x1
+
+==Complete recipe==
+
+ [[Target Lock]] (per item: 1 | tot: 1)
+ 戍式式 [[Engram Neurochip]] (per item: 9 | tot: 9)
+ 戌式式 [[Prey-Sight]] (per item: 1 | tot: 1)
+     戍式式 [[Vox-Caster]] (per item: 6 | tot: 6)
+     戍式式 [[Locator Beacon]] (per item: 5 | tot: 5)
+     戌式式 [[Auspex]] (per item: 6 | tot: 6)

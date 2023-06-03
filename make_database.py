@@ -84,6 +84,7 @@ def build_materials_df(path_to_file, df_raw):
     # Drop unnavailable items (Azrael and Thousand Sons) and where they are used
     unnavailable_items = [
         "Power Weapon Field Node",  # Outdated name (now Relic Hilt)
+        "Royal Phylactery",  # Incomplete in database
         "Dark Hood",  # Azrael stuff
         "Calibanite Hood",
         "Inner Circle Hood",

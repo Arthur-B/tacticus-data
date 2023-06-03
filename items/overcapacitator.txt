@@ -1,0 +1,19 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Ratiocination Targeting]] x2
+* [[Bionic Neural Pathways]] x2
+* [[Wires]] x2
+
+==Complete recipe==
+
+ [[Overcapacitator]] (per item: 1 | tot: 1)
+ 戍式式 [[Ratiocination Targeting]] (per item: 2 | tot: 2)
+ 弛   戍式式 [[Targeting Matrix]] (per item: 2 | tot: 4)
+ 弛   弛   戍式式 [[Targeting Link]] (per item: 6 | tot: 24)
+ 弛   弛   戌式式 [[Ballistics Data]] (per item: 3 | tot: 12)
+ 弛   戍式式 [[Attack Vector Data-Slate]] (per item: 2 | tot: 4)
+ 弛   戌式式 [[Mission Assignment]] (per item: 2 | tot: 4)
+ 戍式式 [[Bionic Neural Pathways]] (per item: 2 | tot: 2)
+ 戌式式 [[Wires]] (per item: 2 | tot: 2)

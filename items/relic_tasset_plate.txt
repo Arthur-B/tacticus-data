@@ -1,0 +1,19 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Ancient Tasset Plate]] x1
+* [[Artificer Tasset Plate]] x8
+* [[Writings]] x8
+
+==Complete recipe==
+
+ [[Relic Tasset Plate]] (per item: 1 | tot: 1)
+ 戍式式 [[Ancient Tasset Plate]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Impressive Armor Trim]] (per item: 1 | tot: 1)
+ 弛   弛   戍式式 [[Armor Trim]] (per item: 5 | tot: 5)
+ 弛   弛   戌式式 [[Metal Decorative Skull]] (per item: 2 | tot: 2)
+ 弛   戍式式 [[Blessed Tasset Plate]] (per item: 6 | tot: 6)
+ 弛   戌式式 [[Golden Ornamental Skull]] (per item: 1 | tot: 1)
+ 戍式式 [[Artificer Tasset Plate]] (per item: 8 | tot: 8)
+ 戌式式 [[Writings]] (per item: 8 | tot: 8)

@@ -1,0 +1,16 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Resurrection Protocols]] x2
+* [[Ominous Xenos Glyphs]] x1
+
+==Complete recipe==
+
+ [[Protocol of the Eternal Guardian]] (per item: 1 | tot: 1)
+ 戍式式 [[Resurrection Protocols]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Reconstitution Protocols]] (per item: 9 | tot: 18)
+ 戌式式 [[Ominous Xenos Glyphs]] (per item: 1 | tot: 1)
+     戍式式 [[Ancient Runes]] (per item: 4 | tot: 4)
+     戍式式 [[Writings]] (per item: 6 | tot: 6)
+     戌式式 [[Scrolls]] (per item: 6 | tot: 6)

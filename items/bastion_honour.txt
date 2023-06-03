@@ -1,0 +1,15 @@
+===Legendary Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Honourifica Imperialis]] x9
+* [[High-Grade Flak Plates]] x1
+* [[Golden Ornamental Skull]] x5
+
+==Complete recipe==
+
+ [[Bastion Honour]] (per item: 1 | tot: 1)
+ 戍式式 [[Honourifica Imperialis]] (per item: 9 | tot: 9)
+ 戍式式 [[High-Grade Flak Plates]] (per item: 1 | tot: 1)
+ 弛   戌式式 [[Flak Plates]] (per item: 9 | tot: 9)
+ 戌式式 [[Golden Ornamental Skull]] (per item: 5 | tot: 5)

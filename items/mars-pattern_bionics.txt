@@ -1,0 +1,15 @@
+===Epic Health upgrade (crafted)===
+
+==Required items==
+
+* [[Advanced Bionics]] x1
+* [[Bionic Eye]] x7
+
+==Complete recipe==
+
+ [[Mars-Pattern Bionics]] (per item: 1 | tot: 1)
+ 戍式式 [[Advanced Bionics]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Bionic Enhancement]] (per item: 2 | tot: 2)
+ 弛   弛   戌式式 [[Minor Bionic Enhancement]] (per item: 6 | tot: 12)
+ 弛   戌式式 [[Standard-Issue Tourniquet]] (per item: 5 | tot: 5)
+ 戌式式 [[Bionic Eye]] (per item: 7 | tot: 7)

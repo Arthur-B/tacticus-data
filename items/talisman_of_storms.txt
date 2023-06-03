@@ -1,0 +1,16 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Runic Talisman]] x2
+* [[Greater Reliquary of Protection]] x1
+
+==Complete recipe==
+
+ [[Talisman of Storms]] (per item: 1 | tot: 1)
+ 戍式式 [[Runic Talisman]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Wolf Tail Talisman]] (per item: 9 | tot: 18)
+ 戌式式 [[Greater Reliquary of Protection]] (per item: 1 | tot: 1)
+     戍式式 [[The Phoenix Ascendant]] (per item: 4 | tot: 4)
+     戍式式 [[Reliquary of Protection]] (per item: 6 | tot: 6)
+     戌式式 [[Lesser Reliquary of Protection]] (per item: 6 | tot: 6)

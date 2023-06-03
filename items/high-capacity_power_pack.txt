@@ -1,0 +1,13 @@
+===Rare Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Power Pack Bundle]] x2
+* [[Plasma Cell]] x5
+
+==Complete recipe==
+
+ [[High-Capacity Power Pack]] (per item: 1 | tot: 1)
+ 戍式式 [[Power Pack Bundle]] (per item: 2 | tot: 2)
+ 弛   戌式式 [[Single Power Pack]] (per item: 6 | tot: 12)
+ 戌式式 [[Plasma Cell]] (per item: 5 | tot: 5)

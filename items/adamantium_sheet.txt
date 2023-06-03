@@ -1,0 +1,14 @@
+===Epic Armour upgrade (crafted)===
+
+==Required items==
+
+* [[Adamantium Bar]] x1
+* [[Box of Salvage]] x6
+
+==Complete recipe==
+
+ [[Adamantium Sheet]] (per item: 1 | tot: 1)
+ 戍式式 [[Adamantium Bar]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Adamantium Ore]] (per item: 8 | tot: 8)
+ 弛   戌式式 [[Pile of Salvage]] (per item: 4 | tot: 4)
+ 戌式式 [[Box of Salvage]] (per item: 6 | tot: 6)

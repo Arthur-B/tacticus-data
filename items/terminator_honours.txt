@@ -1,0 +1,46 @@
+===Epic Health upgrade (dropped)===
+
+==Locations==
+
+{| class="article-table sortable mw-collapsible mw-collapsed"
+! Campaign
+! Variation
+! Level
+! Drop rate (%)
+! Cost
+! Average energy cost
+! Return per energy
+|-
+| Octarius
+| Standard
+| 42
+| 25.0
+| 6
+| 24.0
+| 0.04166666666666666
+|-
+| Indomitus
+| Mirror
+| 31
+| 33.3
+| 6
+| 18.01801801801802
+| 0.0555
+|-
+| Fall of Cadia
+| Mirror
+| 31
+| 33.3
+| 6
+| 18.01801801801802
+| 0.0555
+|-
+| Indomitus
+| Elite
+| 31
+| 67.0
+| 10
+| 14.92537313432836
+| 0.067
+|-
+|}

@@ -1,0 +1,17 @@
+===Legendary Health upgrade (crafted)===
+
+==Required items==
+
+* [[Kustom Gubbinz]] x9
+* [[Advanced Bionics]] x1
+* [[Bionic Neural Pathways]] x6
+
+==Complete recipe==
+
+ [[Cybork Body Parts]] (per item: 1 | tot: 1)
+ 戍式式 [[Kustom Gubbinz]] (per item: 9 | tot: 9)
+ 戍式式 [[Advanced Bionics]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Bionic Enhancement]] (per item: 2 | tot: 2)
+ 弛   弛   戌式式 [[Minor Bionic Enhancement]] (per item: 6 | tot: 12)
+ 弛   戌式式 [[Standard-Issue Tourniquet]] (per item: 5 | tot: 5)
+ 戌式式 [[Bionic Neural Pathways]] (per item: 6 | tot: 6)

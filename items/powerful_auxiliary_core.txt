@@ -1,0 +1,13 @@
+===Rare Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Fine Micro-Generator]] x5
+* [[Fine Auxiliary Core]] x2
+
+==Complete recipe==
+
+ [[Powerful Auxiliary Core]] (per item: 1 | tot: 1)
+ 戍式式 [[Fine Micro-Generator]] (per item: 5 | tot: 5)
+ 戌式式 [[Fine Auxiliary Core]] (per item: 2 | tot: 2)
+     戌式式 [[Basic Auxiliary Core]] (per item: 6 | tot: 12)

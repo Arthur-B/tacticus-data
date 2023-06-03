@@ -1,0 +1,17 @@
+===Legendary Damage upgrade (crafted)===
+
+==Required items==
+
+* [[Blessing of Nurgle]] x9
+* [[Supernatural Sight]] x1
+* [[Special Issue Ammo]] x6
+
+==Complete recipe==
+
+ [[Virulent Rounds]] (per item: 1 | tot: 1)
+ 戍式式 [[Blessing of Nurgle]] (per item: 9 | tot: 9)
+ 戍式式 [[Supernatural Sight]] (per item: 1 | tot: 1)
+ 弛   戍式式 [[Ballistics Data]] (per item: 6 | tot: 6)
+ 弛   戍式式 [[Writings]] (per item: 5 | tot: 5)
+ 弛   戌式式 [[Scrolls]] (per item: 6 | tot: 6)
+ 戌式式 [[Special Issue Ammo]] (per item: 6 | tot: 6)
